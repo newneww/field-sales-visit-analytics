@@ -1,0 +1,13 @@
+sku_id,sku_name,category,pack,unit_price_thb
+SKU-001,Hoppy Lager 320ml Can,Lager,Can 24x,780
+SKU-002,Hoppy Lager 620ml Bottle,Lager,Bottle 12x,720
+SKU-003,Hoppy Lager 490ml Can,Lager,Can 24x,1080
+SKU-004,Hoppy Gold 330ml Bottle,Premium,Bottle 24x,1150
+SKU-005,Hoppy Gold 490ml Can,Premium,Can 24x,1290
+SKU-006,Hoppy Wheat 330ml Bottle,Craft,Bottle 24x,1590
+SKU-007,Hoppy IPA 330ml Can,Craft,Can 24x,1690
+SKU-008,Hoppy Draught Keg 20L,Draught,Keg 1x,2900
+SKU-009,Fizz Soda 325ml Can,Soda,Can 24x,290
+SKU-010,Fizz Soda 1L Bottle,Soda,Bottle 12x,230
+SKU-011,Clear Water 600ml,Water,Bottle 12x,85
+SKU-012,Clear Water 1.5L,Water,Bottle 6x,75

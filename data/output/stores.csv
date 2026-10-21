@@ -1,0 +1,481 @@
+store_id,store_name,channel,grade,territory_id,district,lat,lng,rep_id,agent_id,owner_name,phone,location_source,created_date
+ST-0001,ร้านอาหารญาณพันธุ์,Restaurant,C,BKK-East,Bang Kapi,13.765592,100.646565,R01,AG-01,คุณวิถี,+66 (0) 7407 8161,synthetic,2024-03-01
+ST-0002,จีราภรณ์มินิมาร์ท,Minimart,C,BKK-East,Bueng Kum,13.774182,100.677157,R01,AG-01,คุณเทพนารี,075931034,synthetic,2023-12-14
+ST-0003,เฉลิมรัตน์ Bar & Bistro,Bar,A,BKK-East,Bang Kapi,13.765895,100.63865,R01,AG-01,คุณศศินา,026-475255,synthetic,2025-10-10
+ST-0004,ร้านค้าประเสริฐ,Grocery,C,BKK-East,Bueng Kum,13.790147,100.677348,R01,AG-01,คุณปิยนาฎ,0919283276,synthetic,2025-03-05
+ST-0005,ร้านค้าภูมิปัญญา,Grocery,C,BKK-East,Bang Kapi,13.775335,100.646756,R01,AG-01,คุณนพรัตน์,07 835 0305,synthetic,2026-03-18
+ST-0006,สันติราษฎร์มินิมาร์ท,Minimart,B,BKK-East,Bueng Kum,13.78112,100.667612,R01,AG-01,คุณปรายกานต์,+66 (0) 995 376 724,synthetic,2023-11-14
+ST-0007,ร้านนั่งชิล ธเนษฐ,Bar,C,BKK-East,Bang Kapi,13.765693,100.62965,R01,AG-01,คุณชรินทร์ทิพย์,0-5496-9653,synthetic,2023-10-20
+ST-0008,ร้านนั่งชิล ธนวันต์,Bar,C,BKK-East,Bueng Kum,13.771451,100.675062,R01,AG-01,คุณไชยภพ,0 601 226 916,synthetic,2026-06-17
+ST-0009,ร้านสะดวกซื้อ สนั่น,Convenience,B,BKK-East,Bang Kapi,13.768553,100.646457,R01,AG-01,คุณอัษฏา,054-801845,synthetic,2024-12-07
+ST-0010,ถนอมชัยมินิมาร์ท,Minimart,C,BKK-East,Bueng Kum,13.768091,100.668159,R01,AG-01,คุณธีรวุฒิ,+66 (0) 5048 2814,synthetic,2023-12-14
+ST-0011,ร้านโชห่วยวรนาฎ,Grocery,C,BKK-East,Bang Kapi,13.762028,100.643997,R01,AG-01,คุณดวงสมร,032528809,synthetic,2025-01-27
+ST-0012,วรปรัชญ์หมูกระทะ,Restaurant,B,BKK-East,Bueng Kum,13.792745,100.68184,R01,AG-01,คุณถนอมชัย,0954303911,synthetic,2024-08-01
+ST-0013,ร้านสะดวกซื้อ พันเกล้า,Convenience,B,BKK-East,Bang Kapi,13.773343,100.653754,R01,AG-01,คุณเจษฏาภรณ์,098-227-8248,synthetic,2024-07-29
+ST-0014,ร้านอาหารศิริเกศ,Restaurant,A,BKK-East,Bueng Kum,13.79224,100.668311,R01,AG-01,คุณอาแอเสาะ,0 3834 6578,synthetic,2024-12-19
+ST-0015,ร้านสะดวกซื้อ อนิวัฒน์,Convenience,C,BKK-East,Bang Kapi,13.766304,100.647391,R01,AG-01,คุณปุณณรัตน์,0 2509 8393,synthetic,2023-05-24
+ST-0016,กฤตเมธหมูกระทะ,Restaurant,B,BKK-East,Bueng Kum,13.790615,100.655872,R01,AG-01,คุณธัชญา,023105183,synthetic,2023-03-26
+ST-0017,ร้านภูวิชพาณิชย์,Grocery,B,BKK-East,Bang Kapi,13.757541,100.644315,R01,AG-01,คุณปวีณ,0-5299-7376,synthetic,2025-03-03
+ST-0018,บุญญกัลป์มินิมาร์ท,Minimart,B,BKK-East,Bueng Kum,13.77807,100.66335,R01,AG-01,คุณนารดา,+66 5566 7010,synthetic,2023-04-22
+ST-0019,ร้านอาหารสิทธัญ,Restaurant,B,BKK-East,Bang Kapi,13.765474,100.646453,R01,AG-01,คุณเมทนี,081 333 8726,synthetic,2025-05-12
+ST-0020,ร้านนิรันดร์พาณิชย์,Grocery,C,BKK-East,Bueng Kum,13.775299,100.655275,R01,AG-01,คุณพีรพัฒน์,081 781 0801,synthetic,2023-11-27
+ST-0021,โสภามินิมาร์ท,Minimart,A,BKK-East,Bang Kapi,13.772742,100.650129,R01,AG-01,คุณพศร,+663 677 3602,synthetic,2025-06-11
+ST-0022,ร้านโชห่วยศุภาศิล,Grocery,C,BKK-East,Bueng Kum,13.785304,100.671495,R01,AG-01,คุณสมพิศ,0-3746-8723,synthetic,2026-04-01
+ST-0023,ยศพนต์ Bar & Bistro,Bar,B,BKK-East,Bang Kapi,13.766496,100.647416,R01,AG-01,คุณจิม,+667 805 0097,synthetic,2023-09-15
+ST-0024,กิติยาธรณ์มินิมาร์ท,Minimart,A,BKK-East,Bueng Kum,13.788271,100.670607,R01,AG-01,คุณจรรยพร,+663 081 2191,synthetic,2025-12-25
+ST-0025,บุญทิวาหมูกระทะ,Restaurant,C,BKK-East,Bang Kapi,13.763373,100.633434,R01,AG-01,คุณสิทธัญ,0-2939-9091,synthetic,2025-10-18
+ST-0026,มินิมาร์ท สุทธิณัฐ,Minimart,C,BKK-East,Bueng Kum,13.785054,100.670263,R01,AG-01,คุณชัญญานุนาย,055-435346,synthetic,2025-02-17
+ST-0027,ร้านธนกิตต์พาณิชย์,Grocery,B,BKK-East,Bang Kapi,13.763984,100.647769,R01,AG-01,คุณยอดแมน,+66 (0) 5510 7991,synthetic,2025-03-06
+ST-0028,ครัวฉลองชัย,Restaurant,A,BKK-East,Bueng Kum,13.787971,100.665478,R01,AG-01,คุณกุลภาวลัย,0-3251-3542,synthetic,2024-09-29
+ST-0029,มินิมาร์ท หลักทรัพย์,Minimart,C,BKK-East,Bang Kapi,13.761603,100.649887,R01,AG-01,คุณปิยนุช,+664 980 8412,synthetic,2025-09-14
+ST-0030,ภานุพล Bar & Bistro,Bar,C,BKK-East,Bueng Kum,13.785377,100.669318,R01,AG-01,คุณณิชเชฏฐ์,0682449353,synthetic,2023-05-17
+ST-0031,ประจินมินิมาร์ท,Minimart,C,BKK-East,Bang Kapi,13.763691,100.657842,R01,AG-01,คุณภานุพล,057 401640,synthetic,2025-01-21
+ST-0032,กระสุนมินิมาร์ท,Minimart,B,BKK-East,Bueng Kum,13.788186,100.670682,R01,AG-01,คุณเทียมศักดิ์,0 7427 8680,synthetic,2024-01-31
+ST-0033,ครัวถนอมชัย,Restaurant,C,BKK-East,Bang Kapi,13.785711,100.642915,R01,AG-01,คุณสมมล,07 280 5982,synthetic,2023-03-31
+ST-0034,สุไฮลันมินิมาร์ท,Minimart,C,BKK-East,Bueng Kum,13.784908,100.669009,R01,AG-01,คุณรภัสพงษ์,040 533158,synthetic,2023-06-01
+ST-0035,ร้านอาหารสมมล,Restaurant,C,BKK-East,Bang Kapi,13.770888,100.647074,R01,AG-01,คุณอุษณีย์,072322602,synthetic,2025-11-02
+ST-0036,ร้านพาสุขพาณิชย์,Grocery,B,BKK-East,Bueng Kum,13.78579,100.665257,R01,AG-01,คุณมณียา,0963421607,synthetic,2025-12-31
+ST-0037,ร้านสะดวกซื้อ ปิยวัจน์,Convenience,B,BKK-East,Bang Kapi,13.766796,100.641211,R01,AG-01,คุณสุมัชญา,+66 (0) 5543 3036,synthetic,2023-08-25
+ST-0038,ครัววรินทธิ์ธร,Restaurant,C,BKK-East,Bueng Kum,13.768575,100.67042,R01,AG-01,คุณเจษฏาภรณ์,094 586 8501,synthetic,2023-11-27
+ST-0039,ร้านสะดวกซื้อ ศุภกรชนา,Convenience,B,BKK-East,Bang Kapi,13.752176,100.643247,R01,AG-01,คุณนิติ,+667 401 9655,synthetic,2026-02-23
+ST-0040,ร้านนั่งชิล หรรษธร,Bar,C,BKK-East,Bueng Kum,13.787594,100.670003,R01,AG-01,คุณเกษรา,0-2693-4060,synthetic,2024-12-19
+ST-0041,ร้านโชห่วยคณภรณ์,Grocery,B,BKK-East,Bang Kapi,13.769281,100.646047,R01,AG-01,คุณจันทภา,0-7356-1595,synthetic,2026-01-01
+ST-0042,ครัวน้ำเพชร,Restaurant,B,BKK-East,Bueng Kum,13.789581,100.671166,R01,AG-01,คุณพรปราณี,+66 948 465 648,synthetic,2025-10-01
+ST-0043,เทอดศักดิ์ Bar & Bistro,Bar,B,BKK-East,Bang Kapi,13.76599,100.646669,R01,AG-01,คุณนิติยา,0 962 994 680,synthetic,2023-08-16
+ST-0044,ร้านโชห่วยยูซุฟ,Grocery,A,BKK-East,Bueng Kum,13.790256,100.67038,R01,AG-01,คุณสุไฮลัน,069-957-7738,synthetic,2023-12-06
+ST-0045,อิสรันดร์มินิมาร์ท,Minimart,C,BKK-East,Bang Kapi,13.776,100.642343,R01,AG-01,คุณอาภัศรา,062-148-9513,synthetic,2025-07-29
+ST-0046,ร้านอาหารเนตรฤดี,Restaurant,A,BKK-East,Bueng Kum,13.782418,100.675232,R01,AG-01,คุณยุภา,032003791,synthetic,2024-01-03
+ST-0047,ร้านโชห่วยอนุวัช,Grocery,B,BKK-East,Bang Kapi,13.763863,100.651051,R01,AG-01,คุณธมลพรรณ,+66 7367 6320,synthetic,2026-06-02
+ST-0048,ร้านสะดวกซื้อ สิราพร,Convenience,B,BKK-East,Bueng Kum,13.779191,100.6633,R01,AG-01,คุณภัคศุภางค์,081-632-8708,synthetic,2025-06-08
+ST-0049,พีรพัฒน์ Bar & Bistro,Bar,C,BKK-East,Bang Kapi,13.754774,100.646588,R01,AG-01,คุณทัตธน,+66 (0) 5278 8957,synthetic,2025-12-23
+ST-0050,ครัวตรีนุช,Restaurant,A,BKK-East,Bueng Kum,13.790765,100.663486,R01,AG-01,คุณสายสุรีย์,056 872774,synthetic,2025-08-23
+ST-0051,ร้านค้าพิไลพร,Grocery,A,BKK-East,Bang Kapi,13.762381,100.635972,R01,AG-01,คุณธีริสรา,03 873 4714,synthetic,2023-10-20
+ST-0052,พลภูมิ Bar & Bistro,Bar,C,BKK-East,Bueng Kum,13.790999,100.652529,R01,AG-01,คุณฤทธิ์ชกร,+66 981 223 623,synthetic,2023-11-18
+ST-0053,ร้านโชห่วยเจตธนากร,Grocery,B,BKK-East,Bang Kapi,13.784314,100.661673,R01,AG-01,คุณวันฉัตร,0-5760-3669,synthetic,2024-05-06
+ST-0054,ร้านค้าอลิษา,Grocery,C,BKK-East,Bueng Kum,13.791465,100.663473,R01,AG-01,คุณวิเชียร,089-670-5466,synthetic,2025-04-04
+ST-0055,ร้านโชห่วยจันทภา,Grocery,B,BKK-East,Bang Kapi,13.765185,100.644927,R01,AG-01,คุณจินต์จุฑา,+66 893 734 670,synthetic,2025-06-04
+ST-0056,ร้านค้าสมพิศ,Grocery,C,BKK-East,Bueng Kum,13.793763,100.657047,R01,AG-01,คุณบุญพา,+66 862 729 806,synthetic,2024-02-03
+ST-0057,ร้านอาหารณัฐธิตา,Restaurant,C,BKK-East,Bang Kapi,13.780049,100.656745,R01,AG-01,คุณเกียรติก้อง,026 272046,synthetic,2024-10-30
+ST-0058,ร้านวรศาสส์พาณิชย์,Grocery,C,BKK-East,Bueng Kum,13.79624,100.672291,R01,AG-01,คุณวรศาสส์,046464170,synthetic,2023-09-08
+ST-0059,ร้านค้าพิมพ์สุตา,Grocery,C,BKK-East,Bang Kapi,13.765299,100.641375,R01,AG-01,คุณอัญธิกา,0 4310 0330,synthetic,2024-10-01
+ST-0060,ครัวทิพย์วารี,Restaurant,C,BKK-East,Bueng Kum,13.779086,100.666549,R01,AG-01,คุณเทพณรงค์,051937452,synthetic,2023-06-30
+ST-0061,ครัวดวงพร,Restaurant,C,BKK-East,Saphan Sung,13.769937,100.67948,R02,AG-01,คุณพิมพ์สุดา,+66 612 419 049,synthetic,2024-12-20
+ST-0062,บุญเทียนมินิมาร์ท,Minimart,B,BKK-East,Prawet,13.71415,100.702849,R02,AG-01,คุณศิรณัฐ,0-4319-3149,synthetic,2025-12-12
+ST-0063,ร้านอาหารยุภา,Restaurant,C,BKK-East,Saphan Sung,13.766328,100.682004,R02,AG-01,คุณชัญญานุนาย,060-586-5185,synthetic,2023-05-24
+ST-0064,ครัวกิติชัย,Restaurant,C,BKK-East,Prawet,13.699864,100.700708,R02,AG-01,คุณรังสินี,0 5165 7262,synthetic,2025-10-03
+ST-0065,พัสวีมินิมาร์ท,Minimart,B,BKK-East,Saphan Sung,13.769347,100.677393,R02,AG-01,คุณนวรรษนันท์,03 987 7694,synthetic,2024-09-10
+ST-0066,ร้านค้าวรปรัชญ์,Grocery,B,BKK-East,Prawet,13.703446,100.670791,R02,AG-01,คุณลักษมี,0914737996,synthetic,2025-10-06
+ST-0067,ร้านสะดวกซื้อ วาสุเทพ,Convenience,C,BKK-East,Saphan Sung,13.766506,100.678175,R02,AG-01,คุณวสิตา,+66 (0) 4273 5454,synthetic,2023-02-04
+ST-0068,ร้านสะดวกซื้อ ศุภนุนาย,Convenience,B,BKK-East,Prawet,13.722135,100.709971,R02,AG-01,คุณศุภนุนาย,03 808 3136,synthetic,2026-06-30
+ST-0069,กนกเนตร Bar & Bistro,Bar,A,BKK-East,Saphan Sung,13.770233,100.684669,R02,AG-01,คุณพันเทพ,07 777 0143,synthetic,2024-10-19
+ST-0070,ร้านค้าสิทธิชัย,Grocery,C,BKK-East,Prawet,13.726234,100.68574,R02,AG-01,คุณรชตกร,079-578856,synthetic,2025-03-30
+ST-0071,ร้านค้าพิมพ์พิชญา,Grocery,B,BKK-East,Saphan Sung,13.770157,100.689284,R02,AG-01,คุณวิรศักดิ์,07 744 4313,synthetic,2024-10-14
+ST-0072,ราชันมินิมาร์ท,Minimart,B,BKK-East,Prawet,13.72628,100.686363,R02,AG-01,คุณจันทนา,0 923 374 989,synthetic,2023-05-22
+ST-0073,ร้านมะสูเกียนพาณิชย์,Grocery,A,BKK-East,Saphan Sung,13.768738,100.681325,R02,AG-01,คุณลัดดา,034352408,synthetic,2026-03-07
+ST-0074,ร้านสะดวกซื้อ เทพณรงค์,Convenience,A,BKK-East,Prawet,13.717096,100.713653,R02,AG-01,คุณอุษณีย์,028427109,synthetic,2023-11-22
+ST-0075,มาโนชญ์หมูกระทะ,Restaurant,C,BKK-East,Saphan Sung,13.760762,100.668305,R02,AG-01,คุณหล้า,042047116,synthetic,2024-07-10
+ST-0076,ร้านอาหารกวาง,Restaurant,A,BKK-East,Prawet,13.721981,100.692336,R02,AG-01,คุณธมลพรรณ,0-7022-9413,synthetic,2023-03-29
+ST-0077,ร้านนั่งชิล ทวีวัฒน์,Bar,C,BKK-East,Saphan Sung,13.771189,100.682792,R02,AG-01,คุณสุทกร,+66 (0) 7993 8677,synthetic,2024-10-23
+ST-0078,ร้านยศวัฒน์พาณิชย์,Grocery,B,BKK-East,Prawet,13.7165,100.6811,R02,AG-01,คุณสุรวัช,+664 990 9133,synthetic,2025-10-16
+ST-0079,ร้านค้าภานุพล,Grocery,C,BKK-East,Saphan Sung,13.769961,100.685234,R02,AG-01,คุณธีรวุฒิ,032-812067,synthetic,2025-02-21
+ST-0080,ร้านประไพพักตร์พาณิชย์,Grocery,B,BKK-East,Prawet,13.718393,100.715189,R02,AG-01,คุณไมล์,+66 (0) 2344 7134,synthetic,2024-12-04
+ST-0081,มลิวรรณมินิมาร์ท,Minimart,C,BKK-East,Saphan Sung,13.76919,100.686782,R02,AG-01,คุณณัฐติญา,073-618324,synthetic,2025-07-26
+ST-0082,รูไกยะฮ์หมูกระทะ,Restaurant,C,BKK-East,Prawet,13.717983,100.702555,R02,AG-01,คุณจิรวิทย์,+663 499 4717,synthetic,2023-06-18
+ST-0083,ร้านประไพพักตร์พาณิชย์,Grocery,B,BKK-East,Saphan Sung,13.768781,100.687254,R02,AG-01,คุณสิทธัญ,0 948 877 190,synthetic,2023-12-27
+ST-0084,มินิมาร์ท สหัสมณี,Minimart,C,BKK-East,Prawet,13.719914,100.704785,R02,AG-01,คุณวรปรัชญ์,+66 (0) 7401 3990,synthetic,2024-05-26
+ST-0085,มินิมาร์ท ฟารินี,Minimart,B,BKK-East,Saphan Sung,13.773207,100.685407,R02,AG-01,คุณภาสวุฒิ,+66 7027 8742,synthetic,2025-03-07
+ST-0086,ร้านอาหารณภัทร,Restaurant,B,BKK-East,Prawet,13.741194,100.684633,R02,AG-01,คุณรมิตา,0 5175 6551,synthetic,2024-05-31
+ST-0087,วีร์สุดามินิมาร์ท,Minimart,C,BKK-East,Saphan Sung,13.75589,100.693103,R02,AG-01,คุณสิริรัตน์,07 746 8071,synthetic,2023-07-10
+ST-0088,ร้านสะดวกซื้อ ราชัน,Convenience,C,BKK-East,Prawet,13.713948,100.715651,R02,AG-01,คุณทรรศนชัย,096-808-7603,synthetic,2023-10-27
+ST-0089,เขมจิรา Bar & Bistro,Bar,C,BKK-East,Saphan Sung,13.773657,100.672935,R02,AG-01,คุณเพชรมณี,0 5703 4824,synthetic,2024-03-04
+ST-0090,ร้านค้าหลักทรัพย์,Grocery,C,BKK-East,Prawet,13.726016,100.688863,R02,AG-01,คุณฮานาฟี,0-2093-2480,synthetic,2025-11-09
+ST-0091,ร้านโชห่วยจีราภรณ์,Grocery,A,BKK-East,Saphan Sung,13.763745,100.674415,R02,AG-01,คุณปุณณรัตน์,0817127484,synthetic,2024-04-28
+ST-0092,ร้านอาหารสุชิน,Restaurant,C,BKK-East,Prawet,13.722242,100.700175,R02,AG-01,คุณอินทรีย์,037-826398,synthetic,2025-09-16
+ST-0093,ร้านพิมพ์สุดาพาณิชย์,Grocery,C,BKK-East,Saphan Sung,13.769412,100.685177,R02,AG-01,คุณศศิธร,0 2465 8404,synthetic,2025-11-08
+ST-0094,ร้านพรสวรรค์พาณิชย์,Grocery,C,BKK-East,Prawet,13.710052,100.70079,R02,AG-01,คุณณัฐญาดา,+667 727 8755,synthetic,2023-12-20
+ST-0095,ร้านอาหารจีราภรณ์,Restaurant,B,BKK-East,Saphan Sung,13.7682,100.684531,R02,AG-01,คุณศุภชัย,+66 (0) 5533 9636,synthetic,2025-06-23
+ST-0096,คำปลิวหมูกระทะ,Restaurant,B,BKK-East,Prawet,13.717954,100.694452,R02,AG-01,คุณอิสรันดร์,+66 666 270 289,synthetic,2026-05-19
+ST-0097,วันฉัตรมินิมาร์ท,Minimart,C,BKK-East,Saphan Sung,13.774239,100.678049,R02,AG-01,คุณศิริญา,0 871 870 262,synthetic,2025-10-27
+ST-0098,ครัวเฉลิมพล,Restaurant,C,BKK-East,Prawet,13.715448,100.694268,R02,AG-01,คุณอุดมลักษณ์,0-3596-1586,synthetic,2024-07-10
+ST-0099,ครัวอัญพัชร์,Restaurant,C,BKK-East,Saphan Sung,13.770354,100.681579,R02,AG-01,คุณพรเบญญา,087-809-1343,synthetic,2024-01-11
+ST-0100,ร้านค้าพิมพ์สุดา,Grocery,B,BKK-East,Prawet,13.732954,100.690192,R02,AG-01,คุณฐิติวุฒิ,0 617 240 050,synthetic,2023-04-18
+ST-0101,ร้านโชห่วยยศพงศ์,Grocery,C,BKK-East,Saphan Sung,13.77915,100.692606,R02,AG-01,คุณสุไฮลัน,+66 3386 9222,synthetic,2024-02-29
+ST-0102,ร้านเฉลิมรัตน์พาณิชย์,Grocery,B,BKK-East,Prawet,13.694535,100.682071,R02,AG-01,คุณสนั่น,073792374,synthetic,2024-12-23
+ST-0103,อมัดมินิมาร์ท,Minimart,C,BKK-East,Saphan Sung,13.769659,100.684104,R02,AG-01,คุณกวีฉัฏฐ,+66 974 821 759,synthetic,2023-10-30
+ST-0104,ยอดแมนหมูกระทะ,Restaurant,A,BKK-East,Prawet,13.717589,100.689737,R02,AG-01,คุณสุรธัช,07 474 3671,synthetic,2025-01-27
+ST-0105,ร้านนั่งชิล พศร,Bar,A,BKK-East,Saphan Sung,13.774567,100.662389,R02,AG-01,คุณวีระโชติ,+66 7440 6409,synthetic,2024-03-27
+ST-0106,ศศิธรมินิมาร์ท,Minimart,C,BKK-East,Prawet,13.705735,100.675336,R02,AG-01,คุณพิมพ์พิชญา,090-974-3953,synthetic,2025-03-23
+ST-0107,ธัญญามาศ Bar & Bistro,Bar,C,BKK-East,Saphan Sung,13.774995,100.674473,R02,AG-01,คุณพีระพงศ์พันธ์,0-7210-4709,synthetic,2023-08-14
+ST-0108,ร้านไวพจน์พาณิชย์,Grocery,B,BKK-East,Prawet,13.705578,100.707821,R02,AG-01,คุณไชยภพ,+66 (0) 945 623 285,synthetic,2025-05-17
+ST-0109,มินิมาร์ท จรรยพร,Minimart,B,BKK-East,Saphan Sung,13.785739,100.681428,R02,AG-01,คุณภูวรา,0824745171,synthetic,2024-08-17
+ST-0110,ร้านนั่งชิล ธมน,Bar,A,BKK-East,Prawet,13.723052,100.690555,R02,AG-01,คุณปุณณรัตน์,086 851 6048,synthetic,2025-06-12
+ST-0111,ร้านสะดวกซื้อ ทินวัฒน์,Convenience,A,BKK-East,Saphan Sung,13.767096,100.691121,R02,AG-01,คุณเนตรฤดี,0649651370,synthetic,2024-06-22
+ST-0112,ร้านอาหารทินพร,Restaurant,B,BKK-East,Prawet,13.728771,100.688723,R02,AG-01,คุณชรินทร์ทิพย์,+66 (0) 4931 7461,synthetic,2025-11-13
+ST-0113,มินิมาร์ท ธเนษฐ,Minimart,C,BKK-East,Saphan Sung,13.769643,100.684694,R02,AG-01,คุณคมกริบ,+664 711 3826,synthetic,2023-02-23
+ST-0114,ร้านนั่งชิล อนุบาล,Bar,C,BKK-East,Prawet,13.704965,100.694443,R02,AG-01,คุณอัญชิษฐา,0686926179,synthetic,2024-03-15
+ST-0115,ร้านค้าสินสมุทร,Grocery,B,BKK-East,Saphan Sung,13.767557,100.688945,R02,AG-01,คุณมนัส,+66 (0) 2537 7351,synthetic,2026-01-17
+ST-0116,ร้านสะดวกซื้อ ประจิน,Convenience,C,BKK-East,Prawet,13.713922,100.71302,R02,AG-01,คุณสุกฤษตา,095-064-3171,synthetic,2026-05-26
+ST-0117,ร้านน้ำเพชรพาณิชย์,Grocery,C,BKK-East,Saphan Sung,13.769192,100.68063,R02,AG-01,คุณนพรัตน์,+66 (0) 7005 3293,synthetic,2023-09-09
+ST-0118,ร้านนั่งชิล เจษฏาภรณ์,Bar,B,BKK-East,Prawet,13.717089,100.695502,R02,AG-01,คุณจุฑาภรณ์,0 3933 5290,synthetic,2025-09-10
+ST-0119,ครัวภูวัน,Restaurant,B,BKK-East,Saphan Sung,13.785926,100.695853,R02,AG-01,คุณธวัศชา,02 842 1020,synthetic,2025-10-14
+ST-0120,ร้านนั่งชิล วีระโชติ,Bar,C,BKK-East,Prawet,13.717046,100.695134,R02,AG-01,คุณพศร,+667 502 4026,synthetic,2025-07-25
+ST-0121,ร้านสะดวกซื้อ จณิตตา,Convenience,B,BKK-North,Chatuchak,13.840553,100.551613,R03,AG-02,คุณเจตธนากร,057589178,synthetic,2023-05-15
+ST-0122,ครัวปิยวัจน์,Restaurant,B,BKK-North,Lat Phrao,13.819877,100.609922,R03,AG-02,คุณคำปลิว,+66 (0) 684 700 766,synthetic,2026-01-25
+ST-0123,ร้านนั่งชิล ประจิน,Bar,B,BKK-North,Chatuchak,13.842626,100.551866,R03,AG-02,คุณพชรภรณ์,+66 (0) 971 159 212,synthetic,2023-05-08
+ST-0124,ภูวฤณหมูกระทะ,Restaurant,C,BKK-North,Lat Phrao,13.811752,100.597213,R03,AG-02,คุณณภัทร,05 569 8478,synthetic,2025-01-09
+ST-0125,ร้านค้าดวงจันทร์,Grocery,B,BKK-North,Chatuchak,13.82627,100.560735,R03,AG-02,คุณมาซีเตาะ,07 183 6736,synthetic,2026-06-05
+ST-0126,ร้านอาหารวิกิจ,Restaurant,C,BKK-North,Lat Phrao,13.803892,100.613674,R03,AG-02,คุณสันชัย,04 156 5452,synthetic,2025-09-07
+ST-0127,ประจินมินิมาร์ท,Minimart,C,BKK-North,Chatuchak,13.824488,100.552977,R03,AG-02,คุณเจษฎากร,021 161528,synthetic,2025-12-29
+ST-0128,ร้านนั่งชิล จิรวิทย์,Bar,B,BKK-North,Lat Phrao,13.81541,100.606856,R03,AG-02,คุณชรินทร์ทิพย์,05 516 5604,synthetic,2024-11-25
+ST-0129,ร้านณิชนันท์พาณิชย์,Grocery,A,BKK-North,Chatuchak,13.827453,100.559933,R03,AG-02,คุณณัฐศักดิ์,+66 7832 7315,synthetic,2024-01-06
+ST-0130,ร้านนั่งชิล วรรณนิสา,Bar,C,BKK-North,Lat Phrao,13.818782,100.61424,R03,AG-02,คุณเถลิงยศ,0 649 368 998,synthetic,2024-10-21
+ST-0131,ร้านอาหารเกียรติก้อง,Restaurant,B,BKK-North,Chatuchak,13.825281,100.56396,R03,AG-02,คุณนาตยา,0840244550,synthetic,2024-12-22
+ST-0132,ครัวนิมุ,Restaurant,B,BKK-North,Lat Phrao,13.816194,100.608154,R03,AG-02,คุณชัญญานุนาย,076-120183,synthetic,2025-10-27
+ST-0133,ศิรณัฐหมูกระทะ,Restaurant,C,BKK-North,Chatuchak,13.8309,100.558929,R03,AG-02,คุณวิชชากร,+663 545 9910,synthetic,2026-06-03
+ST-0134,ร้านสะดวกซื้อ ธีรวัช,Convenience,C,BKK-North,Lat Phrao,13.823094,100.612512,R03,AG-02,คุณทานตะวัน,021476797,synthetic,2023-07-06
+ST-0135,ครัวสุชิน,Restaurant,C,BKK-North,Chatuchak,13.83715,100.5493,R03,AG-02,คุณพีรภัทร์,051 561497,synthetic,2023-11-20
+ST-0136,ร้านนั่งชิล จณิตตา,Bar,C,BKK-North,Lat Phrao,13.804091,100.604637,R03,AG-02,คุณคำมั่น,036 900343,synthetic,2025-03-01
+ST-0137,ร้านฟิรยาพาณิชย์,Grocery,C,BKK-North,Chatuchak,13.813052,100.560146,R03,AG-02,คุณพุทธิพงษ์,+66 4510 7622,synthetic,2023-06-12
+ST-0138,ร้านค้าศุภาศิล,Grocery,C,BKK-North,Lat Phrao,13.8165,100.609716,R03,AG-02,คุณผดุงชาติ,058 516060,synthetic,2024-09-23
+ST-0139,อมัดมินิมาร์ท,Minimart,C,BKK-North,Chatuchak,13.822762,100.56052,R03,AG-02,คุณศรินยา,+66 (0) 4969 6641,synthetic,2025-12-27
+ST-0140,สิทธิชัยมินิมาร์ท,Minimart,A,BKK-North,Lat Phrao,13.799257,100.593941,R03,AG-02,คุณวรรณชนะชัย,+663 975 1613,synthetic,2023-01-25
+ST-0141,หรรษธรมินิมาร์ท,Minimart,B,BKK-North,Chatuchak,13.827442,100.560375,R03,AG-02,คุณคำ,026 453521,synthetic,2024-11-28
+ST-0142,มินิมาร์ท เกษรา,Minimart,C,BKK-North,Lat Phrao,13.817418,100.607111,R03,AG-02,คุณจรรยพร,053 552312,synthetic,2025-01-20
+ST-0143,ร้านเพทายพาณิชย์,Grocery,B,BKK-North,Chatuchak,13.831407,100.55842,R03,AG-02,คุณณิชาภัทร,+66 3127 7997,synthetic,2023-08-22
+ST-0144,ร้านเบญญาทิพย์พาณิชย์,Grocery,B,BKK-North,Lat Phrao,13.815268,100.613083,R03,AG-02,คุณชัญญานุนาย,079 552717,synthetic,2025-12-31
+ST-0145,ร้านค้าหลี,Grocery,C,BKK-North,Chatuchak,13.8276,100.56037,R03,AG-02,คุณมารีนี,03 905 8147,synthetic,2025-01-18
+ST-0146,ครัวอนิวัฒน์,Restaurant,C,BKK-North,Lat Phrao,13.825901,100.598344,R03,AG-02,คุณศภัคชคง,0841199867,synthetic,2023-02-14
+ST-0147,ร้านนั่งชิล ฐิติณัฐฐา,Bar,A,BKK-North,Chatuchak,13.830543,100.558852,R03,AG-02,คุณมัตติกา,0607935978,synthetic,2024-10-18
+ST-0148,ร้านธีร์ธวันายพาณิชย์,Grocery,B,BKK-North,Lat Phrao,13.813785,100.618897,R03,AG-02,คุณอธิวัตร,025-182037,synthetic,2026-02-08
+ST-0149,ร้านหลักทรัพย์พาณิชย์,Grocery,A,BKK-North,Chatuchak,13.837195,100.549295,R03,AG-02,คุณดารุนี,+663 554 6659,synthetic,2024-09-13
+ST-0150,ร้านค้าจักรชัย,Grocery,C,BKK-North,Lat Phrao,13.811712,100.614487,R03,AG-02,คุณนรีกานต์,041518644,synthetic,2025-07-24
+ST-0151,พรรณปพรหมูกระทะ,Restaurant,B,BKK-North,Chatuchak,13.840262,100.546485,R03,AG-02,คุณอาแอเสาะ,+66 (0) 992 519 254,synthetic,2025-10-06
+ST-0152,ร้านนั่งชิล อำไพ,Bar,B,BKK-North,Lat Phrao,13.803045,100.620067,R03,AG-02,คุณน้ำเพชร,0-4291-4865,synthetic,2026-07-09
+ST-0153,ร้านนั่งชิล รมิตา,Bar,A,BKK-North,Chatuchak,13.828211,100.559465,R03,AG-02,คุณปิยนาฎ,0881685054,synthetic,2023-06-01
+ST-0154,นิมุหมูกระทะ,Restaurant,C,BKK-North,Lat Phrao,13.820433,100.59127,R03,AG-02,คุณวิชชากร,0 973 322 141,synthetic,2026-02-01
+ST-0155,ร้านค้ากุลภาวลัย,Grocery,C,BKK-North,Chatuchak,13.825041,100.559956,R03,AG-02,คุณวณัฐดา,0680592962,synthetic,2025-07-02
+ST-0156,มินิมาร์ท นพ,Minimart,B,BKK-North,Lat Phrao,13.81607,100.608053,R03,AG-02,คุณปริญญา,069 270 6537,synthetic,2023-08-03
+ST-0157,ดารุนี Bar & Bistro,Bar,C,BKK-North,Chatuchak,13.82899,100.5613,R03,AG-02,คุณพิมพ์สุตา,067-383-4735,synthetic,2023-12-04
+ST-0158,ร้านอาหารบุญพา,Restaurant,C,BKK-North,Lat Phrao,13.816199,100.606979,R03,AG-02,คุณหล้า,+66 (0) 5468 8623,synthetic,2026-01-27
+ST-0159,ร้านสะดวกซื้อ เมษา,Convenience,B,BKK-North,Chatuchak,13.831283,100.555454,R03,AG-02,คุณศิริเกศ,0-3075-8181,synthetic,2024-12-17
+ST-0160,ร้านมาโนชญ์พาณิชย์,Grocery,B,BKK-North,Lat Phrao,13.82527,100.596364,R03,AG-02,คุณนนทกาญจน์,03 782 6137,synthetic,2023-04-10
+ST-0161,สมมลหมูกระทะ,Restaurant,C,BKK-North,Chatuchak,13.812295,100.561227,R03,AG-02,คุณเกียรติก้อง,04 068 5361,synthetic,2026-05-24
+ST-0162,ร้านค้าศรีสวัสดิ์,Grocery,B,BKK-North,Lat Phrao,13.830645,100.614915,R03,AG-02,คุณฤทธิ์ชกร,0915220472,synthetic,2023-09-24
+ST-0163,ร้านสะดวกซื้อ เพ็ญพรรษา,Convenience,C,BKK-North,Chatuchak,13.829519,100.560998,R03,AG-02,คุณอดิสรณ์,070104328,synthetic,2025-04-16
+ST-0164,อรพิณหมูกระทะ,Restaurant,C,BKK-North,Lat Phrao,13.81649,100.60026,R03,AG-02,คุณจณิสตา,+66 5143 4103,synthetic,2025-05-11
+ST-0165,สุทธิณัฐมินิมาร์ท,Minimart,C,BKK-North,Chatuchak,13.840783,100.550861,R03,AG-02,คุณทิพย์วารี,+66 (0) 5117 9808,synthetic,2025-01-27
+ST-0166,ร้านซูฮัยดาพาณิชย์,Grocery,B,BKK-North,Lat Phrao,13.821395,100.610044,R03,AG-02,คุณธราวิทญ์,+66 4609 5396,synthetic,2023-10-14
+ST-0167,ร้านโชห่วยเนติลักษณ์,Grocery,C,BKK-North,Chatuchak,13.82059,100.556645,R03,AG-02,คุณเชิงชาย,055-188888,synthetic,2025-02-26
+ST-0168,ร้านเกริกพลพาณิชย์,Grocery,A,BKK-North,Lat Phrao,13.825245,100.613154,R03,AG-02,คุณอาฮามัด,+66 (0) 2654 0515,synthetic,2024-04-07
+ST-0169,ร้านพันเทพพาณิชย์,Grocery,B,BKK-North,Chatuchak,13.828853,100.561106,R03,AG-02,คุณเทพนารี,029-520585,synthetic,2025-05-18
+ST-0170,รมิตามินิมาร์ท,Minimart,A,BKK-North,Lat Phrao,13.79299,100.614152,R03,AG-02,คุณลักษมี,067 722 1704,synthetic,2025-01-31
+ST-0171,ร้านโชห่วยประเดิม,Grocery,B,BKK-North,Chatuchak,13.819701,100.557424,R03,AG-02,คุณปรมินทร์,080-548-6874,synthetic,2023-02-21
+ST-0172,มินิมาร์ท เขียว,Minimart,C,BKK-North,Lat Phrao,13.814914,100.609634,R03,AG-02,คุณบุญญกัลป์,+66 4505 4156,synthetic,2025-06-11
+ST-0173,ครัวสหัสมณี,Restaurant,C,BKK-North,Chatuchak,13.832098,100.553815,R03,AG-02,คุณหล้า,+66 965 277 584,synthetic,2024-04-19
+ST-0174,เมษา Bar & Bistro,Bar,C,BKK-North,Lat Phrao,13.818264,100.604928,R03,AG-02,คุณสุรธัช,026 928451,synthetic,2023-04-08
+ST-0175,มินิมาร์ท เฉลิมรัตน์,Minimart,B,BKK-North,Chatuchak,13.84067,100.5594,R03,AG-02,คุณยศพนต์,+664 796 2757,synthetic,2026-05-20
+ST-0176,ร้านสะดวกซื้อ คมสัน,Convenience,A,BKK-North,Lat Phrao,13.818967,100.602445,R03,AG-02,คุณสุพัตรา,0 4964 0165,synthetic,2025-05-11
+ST-0177,ครัวแกมแพร,Restaurant,C,BKK-North,Chatuchak,13.831813,100.538159,R03,AG-02,คุณบุญพา,+663 029 7021,synthetic,2025-08-07
+ST-0178,มินิมาร์ท พลภูมิ,Minimart,C,BKK-North,Lat Phrao,13.815967,100.606871,R03,AG-02,คุณศดิศ,046 909275,synthetic,2025-07-11
+ST-0179,ศรายุธมินิมาร์ท,Minimart,C,BKK-North,Chatuchak,13.828468,100.562442,R03,AG-02,คุณเฉลิมรัฐ,+66 7285 6543,synthetic,2024-06-10
+ST-0180,ร้านสะดวกซื้อ อาภัศรา,Convenience,A,BKK-North,Lat Phrao,13.807561,100.590186,R03,AG-02,คุณพาดีล๊ะ,+66 (0) 3786 8144,synthetic,2023-05-15
+ST-0181,มินิมาร์ท ปิยนุช,Minimart,B,BKK-North,Bang Khen,13.87735,100.594513,R04,AG-02,คุณตรีนุช,+66 4731 2172,synthetic,2024-06-12
+ST-0182,ร้านสะดวกซื้อ สิริ,Convenience,B,BKK-North,Don Mueang,13.919589,100.616969,R04,AG-02,คุณโชคภาดล,+66 855 188 442,synthetic,2025-04-25
+ST-0183,ร้านสะดวกซื้อ พชรภรณ์,Convenience,A,BKK-North,Bang Khen,13.871289,100.599045,R04,AG-02,คุณปิ่นบุญญา,0 7258 3132,synthetic,2025-04-20
+ST-0184,พศรมินิมาร์ท,Minimart,C,BKK-North,Don Mueang,13.913144,100.588371,R04,AG-02,คุณเกียรติก้อง,048 957829,synthetic,2025-07-25
+ST-0185,ครัวสมมล,Restaurant,C,BKK-North,Bang Khen,13.873148,100.596703,R04,AG-02,คุณรัฐพงษ์,0-4786-6912,synthetic,2023-04-13
+ST-0186,ร้านค้าอุลัยพร,Grocery,C,BKK-North,Don Mueang,13.917388,100.595025,R04,AG-02,คุณฉลองชัย,+665 785 2892,synthetic,2026-05-19
+ST-0187,มินิมาร์ท ภัคชัญญา,Minimart,B,BKK-North,Bang Khen,13.875598,100.598849,R04,AG-02,คุณเสรี,050 182422,synthetic,2026-02-19
+ST-0188,ครัววรปรัชญ์,Restaurant,B,BKK-North,Don Mueang,13.916609,100.592073,R04,AG-02,คุณปุณณรัตน์,0 4841 4384,synthetic,2026-01-12
+ST-0189,ครัวเทพณรงค์,Restaurant,B,BKK-North,Bang Khen,13.862866,100.589481,R04,AG-02,คุณทองสิริ,0-5182-9922,synthetic,2025-01-10
+ST-0190,ร้านค้านารดา,Grocery,B,BKK-North,Don Mueang,13.926979,100.59392,R04,AG-02,คุณสุกฤษตา,+66 (0) 7590 0109,synthetic,2025-01-10
+ST-0191,ร้านอาหารภานุพล,Restaurant,C,BKK-North,Bang Khen,13.870202,100.596971,R04,AG-02,คุณฟิรยา,+66 7690 7844,synthetic,2025-02-10
+ST-0192,โอภาส Bar & Bistro,Bar,C,BKK-North,Don Mueang,13.914981,100.590668,R04,AG-02,คุณยุลิน,0-7647-1027,synthetic,2023-10-18
+ST-0193,ร้านค้าสุชิน,Grocery,C,BKK-North,Bang Khen,13.885174,100.582128,R04,AG-02,คุณประยุทธ์,049255562,synthetic,2024-07-27
+ST-0194,เพ็ญยุภา Bar & Bistro,Bar,A,BKK-North,Don Mueang,13.909849,100.584904,R04,AG-02,คุณชรินทร์ทิพย์,025-371473,synthetic,2024-03-15
+ST-0195,ร้านนั่งชิล ธมน,Bar,C,BKK-North,Bang Khen,13.868768,100.585732,R04,AG-02,คุณมูฮำมัด,0 969 632 595,synthetic,2023-04-25
+ST-0196,บุญญกัลป์มินิมาร์ท,Minimart,C,BKK-North,Don Mueang,13.911651,100.589515,R04,AG-02,คุณกิ่งแก้ว,057 747016,synthetic,2025-06-23
+ST-0197,ร้านนั่งชิล กุลปรียา,Bar,C,BKK-North,Bang Khen,13.870629,100.593579,R04,AG-02,คุณพันเทพ,0 3950 0479,synthetic,2024-06-25
+ST-0198,ร้านสะดวกซื้อ สมใจ,Convenience,B,BKK-North,Don Mueang,13.909321,100.58634,R04,AG-02,คุณเนตรฤดี,054801624,synthetic,2025-09-25
+ST-0199,ครัวพลานุช,Restaurant,C,BKK-North,Bang Khen,13.876056,100.584659,R04,AG-02,คุณสิทธัญ,040 609835,synthetic,2024-03-09
+ST-0200,ร้านค้าจุฑาภรณ์,Grocery,A,BKK-North,Don Mueang,13.912768,100.588666,R04,AG-02,คุณสมนึก,057 849912,synthetic,2023-12-08
+ST-0201,ร้านฮามีย๊ะพาณิชย์,Grocery,C,BKK-North,Bang Khen,13.873347,100.598629,R04,AG-02,คุณศรีสวัสดิ์,065-852-3986,synthetic,2023-04-25
+ST-0202,กิติกานต์หมูกระทะ,Restaurant,C,BKK-North,Don Mueang,13.903726,100.596059,R04,AG-02,คุณคมกริบ,02 578 7298,synthetic,2023-02-17
+ST-0203,ร้านโชห่วยธเนษฐ,Grocery,C,BKK-North,Bang Khen,13.862942,100.606451,R04,AG-02,คุณตรีนุช,+66 (0) 4269 4958,synthetic,2024-01-24
+ST-0204,ร้านโชห่วยโรสชา,Grocery,B,BKK-North,Don Mueang,13.906011,100.590174,R04,AG-02,คุณกนกเนตร,+66 694 705 516,synthetic,2024-08-27
+ST-0205,ครัวฐิติยาพร,Restaurant,B,BKK-North,Bang Khen,13.872715,100.591841,R04,AG-02,คุณสิริ,+66 (0) 609 749 930,synthetic,2023-12-31
+ST-0206,ฐิติยาพรหมูกระทะ,Restaurant,B,BKK-North,Don Mueang,13.910701,100.58757,R04,AG-02,คุณคำ,0 7962 3091,synthetic,2024-07-23
+ST-0207,ร้านบุญญกัลป์พาณิชย์,Grocery,B,BKK-North,Bang Khen,13.876743,100.592076,R04,AG-02,คุณราชันทร์,04 263 6897,synthetic,2023-01-23
+ST-0208,มินิมาร์ท ศิริเกศ,Minimart,B,BKK-North,Don Mueang,13.911243,100.579154,R04,AG-02,คุณพลานุช,022838578,synthetic,2025-10-02
+ST-0209,ร้านค้าศิรณัฐ,Grocery,B,BKK-North,Bang Khen,13.874958,100.604457,R04,AG-02,คุณนาทภูวพัฒน์,+66 (0) 5858 5497,synthetic,2024-01-07
+ST-0210,ร้านนั่งชิล บุญญามี,Bar,B,BKK-North,Don Mueang,13.919523,100.579409,R04,AG-02,คุณภูวิช,05 434 4375,synthetic,2026-02-08
+ST-0211,มินิมาร์ท เอกอธิพงษ์,Minimart,C,BKK-North,Bang Khen,13.862001,100.590308,R04,AG-02,คุณอธิตยา,0944198665,synthetic,2024-02-18
+ST-0212,ร้านค้าอัญพัชร์,Grocery,B,BKK-North,Don Mueang,13.926344,100.586782,R04,AG-02,คุณธวัศชา,+66 4041 5747,synthetic,2025-07-05
+ST-0213,ร้านค้าปวีณ,Grocery,C,BKK-North,Bang Khen,13.874401,100.595311,R04,AG-02,คุณจันทภา,03 842 1993,synthetic,2023-08-28
+ST-0214,ร้านค้าพันธุ์เทพ,Grocery,B,BKK-North,Don Mueang,13.913822,100.590813,R04,AG-02,คุณสุธินันท์,053-301657,synthetic,2023-03-02
+ST-0215,ร้านสะดวกซื้อ ณปภัช,Convenience,C,BKK-North,Bang Khen,13.876689,100.604264,R04,AG-02,คุณธนวันต์,+66 2826 7734,synthetic,2025-03-18
+ST-0216,ร้านสะดวกซื้อ เลิศเดช,Convenience,C,BKK-North,Don Mueang,13.910392,100.584918,R04,AG-02,คุณจิรวิทย์,+66 (0) 919 380 262,synthetic,2023-12-05
+ST-0217,อธิตยาหมูกระทะ,Restaurant,C,BKK-North,Bang Khen,13.874369,100.596917,R04,AG-02,คุณวนาลี,0-4724-0049,synthetic,2025-12-25
+ST-0218,ร้านสะดวกซื้อ ณิชาภัทร,Convenience,C,BKK-North,Don Mueang,13.887818,100.603298,R04,AG-02,คุณวาร์มูฮำหมัด,+66 4788 7287,synthetic,2023-05-08
+ST-0219,ภูวราหมูกระทะ,Restaurant,C,BKK-North,Bang Khen,13.874981,100.584013,R04,AG-02,คุณถนอมชัย,042742054,synthetic,2023-08-17
+ST-0220,ร้านโชห่วยชัฎชา,Grocery,A,BKK-North,Don Mueang,13.922336,100.58034,R04,AG-02,คุณบุญญามี,+66 (0) 3966 8516,synthetic,2025-03-10
+ST-0221,ร้านค้านิวิลดาน,Grocery,A,BKK-North,Bang Khen,13.871351,100.608154,R04,AG-02,คุณธเนษฐ,055304637,synthetic,2023-04-24
+ST-0222,มินิมาร์ท พิศพรรณ,Minimart,A,BKK-North,Don Mueang,13.904485,100.58201,R04,AG-02,คุณวรินทธิ์ธร,+664 990 4530,synthetic,2023-11-13
+ST-0223,มินิมาร์ท นิภา,Minimart,B,BKK-North,Bang Khen,13.872851,100.596072,R04,AG-02,คุณรภัสพงษ์,+663 684 1459,synthetic,2023-05-21
+ST-0224,มินิมาร์ท ปิยวัจน์,Minimart,C,BKK-North,Don Mueang,13.908585,100.585986,R04,AG-02,คุณธนนนท์,052795687,synthetic,2026-05-04
+ST-0225,ร้านเพชรมณีพาณิชย์,Grocery,B,BKK-North,Bang Khen,13.884521,100.596574,R04,AG-02,คุณนิติยา,+66 (0) 833 918 785,synthetic,2024-09-28
+ST-0226,ร้านนั่งชิล เฉลิมรัฐ,Bar,C,BKK-North,Don Mueang,13.91397,100.579868,R04,AG-02,คุณถนอมชัย,028839822,synthetic,2025-12-22
+ST-0227,วรศาสส์มินิมาร์ท,Minimart,B,BKK-North,Bang Khen,13.864643,100.600007,R04,AG-02,คุณหลี,0-2397-1870,synthetic,2025-10-09
+ST-0228,อนุบาลหมูกระทะ,Restaurant,C,BKK-North,Don Mueang,13.910516,100.580459,R04,AG-02,คุณสุชิน,+66 (0) 5908 7406,synthetic,2023-06-06
+ST-0229,พุทธิพงษ์ Bar & Bistro,Bar,A,BKK-North,Bang Khen,13.869038,100.599081,R04,AG-02,คุณพิมพ์พิชญา,0 3910 6518,synthetic,2025-08-25
+ST-0230,จิรวิทย์มินิมาร์ท,Minimart,C,BKK-North,Don Mueang,13.904506,100.591261,R04,AG-02,คุณเจษฏาภรณ์,0970462265,synthetic,2026-01-12
+ST-0231,มินิมาร์ท สายสุรีย์,Minimart,C,BKK-North,Bang Khen,13.869852,100.583533,R04,AG-02,คุณศศิรินทร์,+66 (0) 966 182 512,synthetic,2024-03-29
+ST-0232,ร้านจันทภาพาณิชย์,Grocery,C,BKK-North,Don Mueang,13.907666,100.592733,R04,AG-02,คุณเทอดศักดิ์,+66 (0) 630 047 868,synthetic,2024-04-10
+ST-0233,ร้านอาหารศุภาศิล,Restaurant,B,BKK-North,Bang Khen,13.868805,100.585163,R04,AG-02,คุณพิพิธธน,+66 (0) 5524 3106,synthetic,2025-09-02
+ST-0234,ทองสิริ Bar & Bistro,Bar,C,BKK-North,Don Mueang,13.915164,100.585696,R04,AG-02,คุณสมมล,080-331-1907,synthetic,2025-06-26
+ST-0235,ร้านค้าณาร์รีมาน,Grocery,C,BKK-North,Bang Khen,13.87543,100.593352,R04,AG-02,คุณศิริเกศ,023067383,synthetic,2025-03-07
+ST-0236,ครัวพีรภัทร์,Restaurant,A,BKK-North,Don Mueang,13.911726,100.591281,R04,AG-02,คุณจำรัส,02 843 9599,synthetic,2025-10-20
+ST-0237,ร้านภัทรนาฎพาณิชย์,Grocery,C,BKK-North,Bang Khen,13.876065,100.604583,R04,AG-02,คุณเลิศเดช,034-283644,synthetic,2025-03-07
+ST-0238,จีรยุทธ Bar & Bistro,Bar,B,BKK-North,Don Mueang,13.922509,100.586368,R04,AG-02,คุณณัฐธภรณ์,082-687-0568,synthetic,2024-10-21
+ST-0239,ฤทธิ์ชกรหมูกระทะ,Restaurant,C,BKK-North,Bang Khen,13.869537,100.593325,R04,AG-02,คุณสิรวัฒน์,+66 3462 8733,synthetic,2025-04-05
+ST-0240,ยอดแมนหมูกระทะ,Restaurant,A,BKK-North,Don Mueang,13.918422,100.587235,R04,AG-02,คุณธราวิทญ์,+66 870 866 882,synthetic,2025-10-13
+ST-0241,สมปองมินิมาร์ท,Minimart,C,BKK-West,Bang Phlat,13.793952,100.495373,R05,AG-03,คุณประยุทธ์,041751830,synthetic,2023-10-15
+ST-0242,ร้านสะดวกซื้อ ภาสวุฒิ,Convenience,A,BKK-West,Taling Chan,13.778933,100.458332,R05,AG-03,คุณดวงจันทร์,+66 (0) 7013 9837,synthetic,2024-03-22
+ST-0243,ร้านค้าประสิทธิ์,Grocery,B,BKK-West,Bang Phlat,13.793364,100.502159,R05,AG-03,คุณวัลลภ,+664 033 1739,synthetic,2025-10-27
+ST-0244,ร้านปิยนุชพาณิชย์,Grocery,A,BKK-West,Taling Chan,13.781012,100.456998,R05,AG-03,คุณสุภาพร,038-546785,synthetic,2023-08-31
+ST-0245,ร้านโชห่วยรภัสพงษ์,Grocery,A,BKK-West,Bang Phlat,13.799067,100.5141,R05,AG-03,คุณแกมแพร,087-717-5355,synthetic,2023-11-06
+ST-0246,ร้านสะดวกซื้อ สีหราช,Convenience,B,BKK-West,Taling Chan,13.778298,100.445978,R05,AG-03,คุณศศิธร,032 048996,synthetic,2023-02-24
+ST-0247,ร้านค้ายศพนต์,Grocery,B,BKK-West,Bang Phlat,13.78804,100.508202,R05,AG-03,คุณวรินทธิ์ธร,036 937854,synthetic,2023-06-30
+ST-0248,มินิมาร์ท เพียงกมล,Minimart,C,BKK-West,Taling Chan,13.786794,100.454049,R05,AG-03,คุณอำพร,+66 (0) 677 252 287,synthetic,2025-08-31
+ST-0249,ร้านนิรุตต์พาณิชย์,Grocery,A,BKK-West,Bang Phlat,13.793113,100.506704,R05,AG-03,คุณจิตตานันท์,070 801006,synthetic,2025-12-22
+ST-0250,ร้านค้าธนวันต์,Grocery,A,BKK-West,Taling Chan,13.779651,100.463437,R05,AG-03,คุณผดุงพล,0 2203 8750,synthetic,2025-09-25
+ST-0251,ร้านอาหารทานตะวัน,Restaurant,C,BKK-West,Bang Phlat,13.790632,100.51705,R05,AG-03,คุณอธิตยา,077700886,synthetic,2025-01-25
+ST-0252,ร้านโชห่วยกิติชัย,Grocery,B,BKK-West,Taling Chan,13.775979,100.45659,R05,AG-03,คุณพรพิไล,03 840 8621,synthetic,2023-01-20
+ST-0253,มินิมาร์ท สุมัชญา,Minimart,C,BKK-West,Bang Phlat,13.793,100.506918,R05,AG-03,คุณธาเอก,033-984546,synthetic,2023-04-25
+ST-0254,เฉลิมรัตน์มินิมาร์ท,Minimart,C,BKK-West,Taling Chan,13.771743,100.454069,R05,AG-03,คุณสิทธิชัย,+66 (0) 5933 4101,synthetic,2024-03-18
+ST-0255,ร้านโชห่วยสิทธิชัย,Grocery,B,BKK-West,Bang Phlat,13.797784,100.507867,R05,AG-03,คุณจีราภรณ์,050021765,synthetic,2024-03-25
+ST-0256,ชัญญานุนายมินิมาร์ท,Minimart,C,BKK-West,Taling Chan,13.77746,100.45568,R05,AG-03,คุณอุษณีย์,028-033974,synthetic,2026-03-04
+ST-0257,ร้านสะดวกซื้อ คำมั่น,Convenience,C,BKK-West,Bang Phlat,13.801082,100.486321,R05,AG-03,คุณปภาวรินทร์,0948902503,synthetic,2025-12-31
+ST-0258,ร้านอาหารณัฐญาดา,Restaurant,C,BKK-West,Taling Chan,13.788693,100.450378,R05,AG-03,คุณรักชนก,+66 661 429 396,synthetic,2023-06-20
+ST-0259,ร้านบุญเทียนพาณิชย์,Grocery,B,BKK-West,Bang Phlat,13.8009,100.50472,R05,AG-03,คุณวันฉัตร,042-185016,synthetic,2025-11-28
+ST-0260,ร้านโชห่วยผดุงพล,Grocery,C,BKK-West,Taling Chan,13.776958,100.456093,R05,AG-03,คุณวิชชากร,+66 (0) 7996 5047,synthetic,2025-09-20
+ST-0261,ร้านกวางพาณิชย์,Grocery,B,BKK-West,Bang Phlat,13.800283,100.513791,R05,AG-03,คุณจุฑาภรณ์,0 966 296 194,synthetic,2023-09-28
+ST-0262,มาสิตะ Bar & Bistro,Bar,B,BKK-West,Taling Chan,13.761793,100.458737,R05,AG-03,คุณฉลองชัย,024 262655,synthetic,2023-10-20
+ST-0263,ร้านสะดวกซื้อ ณิชเชฏฐ์,Convenience,B,BKK-West,Bang Phlat,13.805137,100.496605,R05,AG-03,คุณอริสรา,+664 754 1212,synthetic,2026-04-14
+ST-0264,สุไฮลันมินิมาร์ท,Minimart,B,BKK-West,Taling Chan,13.777615,100.45889,R05,AG-03,คุณจุฑารัตน์,056 101581,synthetic,2024-06-15
+ST-0265,ร้านอาหารณัฐวรินทร,Restaurant,C,BKK-West,Bang Phlat,13.794441,100.506247,R05,AG-03,คุณวรรณชนะชัย,086 046 6183,synthetic,2024-12-09
+ST-0266,ร้านโชห่วยซูรัยดา,Grocery,C,BKK-West,Taling Chan,13.786423,100.465325,R05,AG-03,คุณปภาวรินทร์,042-244472,synthetic,2024-09-09
+ST-0267,ร้านอาหารเจตธนากร,Restaurant,C,BKK-West,Bang Phlat,13.795489,100.507144,R05,AG-03,คุณภูวัน,04 471 5437,synthetic,2023-07-18
+ST-0268,ณัฐพิชามินิมาร์ท,Minimart,C,BKK-West,Taling Chan,13.788403,100.457217,R05,AG-03,คุณอภิลักษณ์,022-406596,synthetic,2024-12-31
+ST-0269,ร้านค้ายนงคราญ,Grocery,C,BKK-West,Bang Phlat,13.792907,100.505127,R05,AG-03,คุณหล้า,046924593,synthetic,2025-10-18
+ST-0270,เอกอธิพงษ์ Bar & Bistro,Bar,C,BKK-West,Taling Chan,13.776701,100.455485,R05,AG-03,คุณอาแอเสาะ,0-4547-9356,synthetic,2024-01-08
+ST-0271,ร้านค้ามนัส,Grocery,C,BKK-West,Bang Phlat,13.776558,100.500187,R05,AG-03,คุณสรรเพชญ์,041 939828,synthetic,2025-08-25
+ST-0272,ร้านอาหารเกียรติก้อง,Restaurant,B,BKK-West,Taling Chan,13.761164,100.46941,R05,AG-03,คุณอรรจน์,0 937 416 724,synthetic,2026-08-23
+ST-0273,มินิมาร์ท พันเทพ,Minimart,B,BKK-West,Bang Phlat,13.792867,100.496869,R05,AG-03,คุณธีรลักษณ์,+66 666 179 796,synthetic,2023-10-27
+ST-0274,จักรีรัตน์ Bar & Bistro,Bar,C,BKK-West,Taling Chan,13.773186,100.461795,R05,AG-03,คุณสุรการณ์,086 805 8911,synthetic,2024-08-23
+ST-0275,ภัคชัญญาหมูกระทะ,Restaurant,C,BKK-West,Bang Phlat,13.793866,100.505255,R05,AG-03,คุณนิติยา,0 4290 9656,synthetic,2023-10-22
+ST-0276,ร้านสะดวกซื้อ ณิชเชฏฐ์,Convenience,C,BKK-West,Taling Chan,13.77098,100.448234,R05,AG-03,คุณไพสิฐ,038 889937,synthetic,2023-01-13
+ST-0277,ศรีสวัสดิ์มินิมาร์ท,Minimart,A,BKK-West,Bang Phlat,13.781016,100.506675,R05,AG-03,คุณภัทรนาฎ,0-7982-5071,synthetic,2024-04-08
+ST-0278,ร้านยศพนต์พาณิชย์,Grocery,C,BKK-West,Taling Chan,13.80264,100.467052,R05,AG-03,คุณอารีย์,021 254573,synthetic,2026-06-03
+ST-0279,ร้านนั่งชิล คณภรณ์,Bar,A,BKK-West,Bang Phlat,13.797304,100.501131,R05,AG-03,คุณเอกชัย,027-751401,synthetic,2024-07-26
+ST-0280,ร้านค้าเกษตร,Grocery,C,BKK-West,Taling Chan,13.758884,100.454191,R05,AG-03,คุณนรีกานต์,022-382825,synthetic,2025-10-03
+ST-0281,ชนิศามินิมาร์ท,Minimart,A,BKK-West,Bang Phlat,13.789593,100.520194,R05,AG-03,คุณอรรจน์,036 226609,synthetic,2024-05-20
+ST-0282,สมมล Bar & Bistro,Bar,C,BKK-West,Taling Chan,13.775254,100.459179,R05,AG-03,คุณณัฐธิตา,+66 5603 3419,synthetic,2023-08-22
+ST-0283,ร้านอาหารณัฐจศักดิ์,Restaurant,B,BKK-West,Bang Phlat,13.78366,100.508826,R05,AG-03,คุณจันทนา,+66 (0) 3553 7147,synthetic,2025-08-05
+ST-0284,ร้านสะดวกซื้อ จณิสตา,Convenience,B,BKK-West,Taling Chan,13.778626,100.459992,R05,AG-03,คุณราชันทร์,+66 (0) 7696 9155,synthetic,2026-02-18
+ST-0285,ร้านโชห่วยวรรณนิสา,Grocery,B,BKK-West,Bang Phlat,13.791642,100.518259,R05,AG-03,คุณนาทภูวพัฒน์,+66 (0) 849 912 513,synthetic,2024-06-26
+ST-0286,รชตกร Bar & Bistro,Bar,B,BKK-West,Taling Chan,13.78954,100.462985,R05,AG-03,คุณศรีสวัสดิ์,07 286 6929,synthetic,2023-05-19
+ST-0287,ร้านสมเกียรติพาณิชย์,Grocery,C,BKK-West,Bang Phlat,13.791988,100.503337,R05,AG-03,คุณฮาฟิต,0 7828 2742,synthetic,2024-05-16
+ST-0288,ครัวเนติลักษณ์,Restaurant,B,BKK-West,Taling Chan,13.776199,100.451996,R05,AG-03,คุณอธิวัตร,070507236,synthetic,2024-01-08
+ST-0289,ร้านนั่งชิล อาแอเสาะ,Bar,B,BKK-West,Bang Phlat,13.794293,100.503582,R05,AG-03,คุณนันทวรรณ,0 5676 7721,synthetic,2024-10-27
+ST-0290,ชัญญานุนายมินิมาร์ท,Minimart,C,BKK-West,Taling Chan,13.774662,100.457043,R05,AG-03,คุณเพ็ญยุภา,034 043842,synthetic,2023-02-06
+ST-0291,ภาสินีหมูกระทะ,Restaurant,C,BKK-West,Bang Phlat,13.795099,100.498501,R05,AG-03,คุณพิมพ์ประภา,067 881 9148,synthetic,2024-06-25
+ST-0292,รังสินีหมูกระทะ,Restaurant,C,BKK-West,Taling Chan,13.784641,100.457559,R05,AG-03,คุณจิตตานันท์,+66 (0) 807 836 134,synthetic,2026-03-20
+ST-0293,ศิริญาหมูกระทะ,Restaurant,C,BKK-West,Bang Phlat,13.793455,100.510316,R05,AG-03,คุณอธิวัตร,0-3517-1339,synthetic,2026-03-30
+ST-0294,ประไพพักตร์ Bar & Bistro,Bar,B,BKK-West,Taling Chan,13.775428,100.457466,R05,AG-03,คุณผกาทิพย์,076292330,synthetic,2024-02-20
+ST-0295,ครัวชิดชนก,Restaurant,C,BKK-West,Bang Phlat,13.78514,100.513403,R05,AG-03,คุณมนัส,+66 (0) 7825 4494,synthetic,2024-02-20
+ST-0296,มินิมาร์ท อัญธิกา,Minimart,B,BKK-West,Taling Chan,13.75369,100.451506,R05,AG-03,คุณสิริ,0-7126-0422,synthetic,2025-10-13
+ST-0297,ครัวพีรพัฒน์,Restaurant,A,BKK-West,Bang Phlat,13.797849,100.50582,R05,AG-03,คุณเลิศเดช,0836729466,synthetic,2023-06-23
+ST-0298,อนิวัฒน์ Bar & Bistro,Bar,B,BKK-West,Taling Chan,13.756554,100.474097,R05,AG-03,คุณมาซีเตาะ,081-684-5775,synthetic,2023-03-31
+ST-0299,ร้านอาหารฐิติณัฐฐา,Restaurant,C,BKK-West,Bang Phlat,13.793757,100.504982,R05,AG-03,คุณภัทราวุธ,0 817 518 636,synthetic,2023-01-03
+ST-0300,ครัวราณี,Restaurant,C,BKK-West,Taling Chan,13.788696,100.455896,R05,AG-03,คุณภาสวุฒิ,+66 (0) 4458 9297,synthetic,2023-09-09
+ST-0301,ร้านสะดวกซื้อ มลิวรรณ,Convenience,B,BKK-West,Bangkok Noi,13.771146,100.468466,R06,AG-03,คุณปฐวีกานต์,0 600 170 127,synthetic,2024-02-12
+ST-0302,อนุวัชมินิมาร์ท,Minimart,C,BKK-West,Phasi Charoen,13.710008,100.437408,R06,AG-03,คุณอาซือมะ,+66 5324 2415,synthetic,2023-01-01
+ST-0303,ร้านสะดวกซื้อ พีระพงศ์พันธ์,Convenience,C,BKK-West,Bangkok Noi,13.764398,100.480395,R06,AG-03,คุณนิติยา,+66 920 643 611,synthetic,2023-04-08
+ST-0304,ร้านอาหารกรพนธ์,Restaurant,C,BKK-West,Phasi Charoen,13.70451,100.451302,R06,AG-03,คุณเฉลิมรัฐ,02 938 7005,synthetic,2023-09-10
+ST-0305,ร้านอาหารรอกีเย๊าะ,Restaurant,C,BKK-West,Bangkok Noi,13.765998,100.476884,R06,AG-03,คุณศจีกาญจน์,+66 5271 3611,synthetic,2023-05-23
+ST-0306,ณัฐจศักดิ์มินิมาร์ท,Minimart,B,BKK-West,Phasi Charoen,13.70444,100.440225,R06,AG-03,คุณสมใจ,+664 262 2189,synthetic,2024-01-07
+ST-0307,ร้านโชห่วยกวีฉัฏฐ,Grocery,C,BKK-West,Bangkok Noi,13.768014,100.466189,R06,AG-03,คุณนภนต์,+665 532 6973,synthetic,2024-12-24
+ST-0308,ร้านอาหารโชคภาดล,Restaurant,B,BKK-West,Phasi Charoen,13.722401,100.430907,R06,AG-03,คุณธเนษฐ,0 619 656 523,synthetic,2025-11-28
+ST-0309,มินิมาร์ท ภูวัน,Minimart,C,BKK-West,Bangkok Noi,13.770681,100.469094,R06,AG-03,คุณพีรพัฒน์,05 999 4043,synthetic,2025-02-02
+ST-0310,เขมจิรา Bar & Bistro,Bar,B,BKK-West,Phasi Charoen,13.711526,100.443608,R06,AG-03,คุณบุญเกิด,0664037613,synthetic,2024-12-20
+ST-0311,กิ่งแก้วหมูกระทะ,Restaurant,C,BKK-West,Bangkok Noi,13.770543,100.477595,R06,AG-03,คุณใจกลาง,050-552696,synthetic,2025-01-26
+ST-0312,ร้านศดิศพาณิชย์,Grocery,B,BKK-West,Phasi Charoen,13.721037,100.439381,R06,AG-03,คุณนาทภูวพัฒน์,0 671 091 043,synthetic,2024-10-09
+ST-0313,ครัวคมกฤชญ์,Restaurant,B,BKK-West,Bangkok Noi,13.768024,100.476906,R06,AG-03,คุณอัญชัญ,066-848-6661,synthetic,2025-12-29
+ST-0314,ร้านนพรัตน์พาณิชย์,Grocery,C,BKK-West,Phasi Charoen,13.701803,100.442819,R06,AG-03,คุณทับทิม,+66 3414 1832,synthetic,2024-09-27
+ST-0315,จันทนามินิมาร์ท,Minimart,C,BKK-West,Bangkok Noi,13.769274,100.468539,R06,AG-03,คุณณัฐญาดา,0 7146 3031,synthetic,2024-01-23
+ST-0316,ร้านโสภณิตาพาณิชย์,Grocery,A,BKK-West,Phasi Charoen,13.711538,100.447243,R06,AG-03,คุณอนุบาล,079042102,synthetic,2024-05-29
+ST-0317,ร้านค้าปิยนาฎ,Grocery,C,BKK-West,Bangkok Noi,13.770787,100.467944,R06,AG-03,คุณกันตวรรณ,0 958 842 524,synthetic,2023-01-14
+ST-0318,ครัวพัสวี,Restaurant,C,BKK-West,Phasi Charoen,13.720006,100.443474,R06,AG-03,คุณภัคศุภางค์,+66 905 648 149,synthetic,2025-11-16
+ST-0319,ครัวเทพนารี,Restaurant,A,BKK-West,Bangkok Noi,13.772532,100.466948,R06,AG-03,คุณอนุวัช,055 079252,synthetic,2023-04-02
+ST-0320,ร้านค้าพุทธิพงษ์,Grocery,A,BKK-West,Phasi Charoen,13.704593,100.436444,R06,AG-03,คุณสิราพร,+66 7138 0003,synthetic,2026-07-27
+ST-0321,มินิมาร์ท คำมั่น,Minimart,A,BKK-West,Bangkok Noi,13.775501,100.451941,R06,AG-03,คุณสมเกียรติ,+66 (0) 922 086 353,synthetic,2024-07-13
+ST-0322,ร้านโชห่วยสุทกร,Grocery,B,BKK-West,Phasi Charoen,13.717231,100.434357,R06,AG-03,คุณฤทธิ์ชกร,03 195 1802,synthetic,2025-12-21
+ST-0323,ปิยะนันท์หมูกระทะ,Restaurant,C,BKK-West,Bangkok Noi,13.774858,100.467705,R06,AG-03,คุณคำมั่น,096 174 4518,synthetic,2025-08-11
+ST-0324,อนุวัชหมูกระทะ,Restaurant,B,BKK-West,Phasi Charoen,13.710518,100.434606,R06,AG-03,คุณปรมินทร์,+66 4949 3759,synthetic,2023-01-10
+ST-0325,อุลัยพร Bar & Bistro,Bar,B,BKK-West,Bangkok Noi,13.764896,100.484245,R06,AG-03,คุณภัทรนาฎ,063 832 0603,synthetic,2024-08-07
+ST-0326,ร้านอาหารจิตตานันท์,Restaurant,C,BKK-West,Phasi Charoen,13.712426,100.433878,R06,AG-03,คุณวรดาพร,07 050 6413,synthetic,2024-02-15
+ST-0327,จรรยพรมินิมาร์ท,Minimart,B,BKK-West,Bangkok Noi,13.768096,100.46322,R06,AG-03,คุณสุทธิณัฐ,0 5024 1038,synthetic,2026-03-10
+ST-0328,สีหราช Bar & Bistro,Bar,C,BKK-West,Phasi Charoen,13.712384,100.453992,R06,AG-03,คุณศรายุธ,+66 (0) 5191 8261,synthetic,2025-04-10
+ST-0329,ร้านค้าณัฐธิตา,Grocery,A,BKK-West,Bangkok Noi,13.76607,100.463743,R06,AG-03,คุณโสภณ,072-344565,synthetic,2024-11-03
+ST-0330,เรืองเกียรติหมูกระทะ,Restaurant,C,BKK-West,Phasi Charoen,13.71159,100.439324,R06,AG-03,คุณพงษ์นเรศ,0 2329 1212,synthetic,2024-06-20
+ST-0331,ร้านอธิวัตรพาณิชย์,Grocery,C,BKK-West,Bangkok Noi,13.775464,100.482415,R06,AG-03,คุณสินสมุทร,0-2853-7474,synthetic,2024-07-06
+ST-0332,ร้านสะดวกซื้อ วันชนก,Convenience,C,BKK-West,Phasi Charoen,13.718279,100.443178,R06,AG-03,คุณธีรวุฒิ,+66 849 035 213,synthetic,2023-05-23
+ST-0333,ร้านค้าอำไพ,Grocery,C,BKK-West,Bangkok Noi,13.783821,100.460238,R06,AG-03,คุณแกมแพร,024420678,synthetic,2024-02-26
+ST-0334,ร้านค้าพิมพ์สุตา,Grocery,C,BKK-West,Phasi Charoen,13.711274,100.427162,R06,AG-03,คุณฌาฆีภัตฐ์,+66 (0) 5121 0032,synthetic,2024-10-13
+ST-0335,ร้านปฐมพาณิชย์,Grocery,C,BKK-West,Bangkok Noi,13.762877,100.466816,R06,AG-03,คุณศรายุธ,0-7199-4101,synthetic,2025-09-03
+ST-0336,ร้านค้าปฐม,Grocery,C,BKK-West,Phasi Charoen,13.700303,100.440652,R06,AG-03,คุณอชิตะวีร์,+66 821 510 702,synthetic,2025-12-05
+ST-0337,ร้านค้าโสภณิตา,Grocery,B,BKK-West,Bangkok Noi,13.767948,100.456564,R06,AG-03,คุณรักชนก,+66 (0) 667 066 253,synthetic,2024-11-11
+ST-0338,ร้านสะดวกซื้อ สุพัตร,Convenience,C,BKK-West,Phasi Charoen,13.712676,100.452067,R06,AG-03,คุณมนัส,+665 209 9934,synthetic,2023-08-10
+ST-0339,มินิมาร์ท กิ่งแก้ว,Minimart,B,BKK-West,Bangkok Noi,13.767477,100.476258,R06,AG-03,คุณจิฬาภรณ์,050146263,synthetic,2024-05-03
+ST-0340,ร้านนั่งชิล นภัสรินทร์,Bar,B,BKK-West,Phasi Charoen,13.713354,100.434718,R06,AG-03,คุณจณิตตา,038-065787,synthetic,2025-11-14
+ST-0341,ร้านอาหารวิถี,Restaurant,A,BKK-West,Bangkok Noi,13.774111,100.453568,R06,AG-03,คุณกิติยาธรณ์,+66 (0) 4642 0593,synthetic,2025-12-17
+ST-0342,ร้านค้าโกมล,Grocery,B,BKK-West,Phasi Charoen,13.695711,100.427634,R06,AG-03,คุณภารวี,03 078 5932,synthetic,2025-11-27
+ST-0343,ณปภัชมินิมาร์ท,Minimart,C,BKK-West,Bangkok Noi,13.788958,100.462277,R06,AG-03,คุณพันเทพ,03 803 9652,synthetic,2023-10-21
+ST-0344,นิชนันท์มินิมาร์ท,Minimart,B,BKK-West,Phasi Charoen,13.71342,100.439477,R06,AG-03,คุณเรืองเกียรติ,+66 859 059 929,synthetic,2023-10-08
+ST-0345,ร้านสะดวกซื้อ อัญชัญ,Convenience,B,BKK-West,Bangkok Noi,13.762306,100.469047,R06,AG-03,คุณเยาวรัตน์,087-842-7010,synthetic,2023-08-12
+ST-0346,ร้านสะดวกซื้อ พงษ์นเรศ,Convenience,C,BKK-West,Phasi Charoen,13.711147,100.436274,R06,AG-03,คุณเกริกพล,057-059325,synthetic,2024-12-13
+ST-0347,พรเบญญา Bar & Bistro,Bar,B,BKK-West,Bangkok Noi,13.768547,100.46667,R06,AG-03,คุณเมษา,0 850 029 218,synthetic,2023-07-30
+ST-0348,ศจีกาญจน์ Bar & Bistro,Bar,C,BKK-West,Phasi Charoen,13.711333,100.432018,R06,AG-03,คุณฉลองชัย,046 915452,synthetic,2024-03-08
+ST-0349,ฮามีย๊ะมินิมาร์ท,Minimart,B,BKK-West,Bangkok Noi,13.767855,100.457383,R06,AG-03,คุณอัญชัญ,+66 5752 8953,synthetic,2023-07-06
+ST-0350,นิติยาหมูกระทะ,Restaurant,B,BKK-West,Phasi Charoen,13.716342,100.439821,R06,AG-03,คุณนาย,044-422096,synthetic,2024-11-28
+ST-0351,มินิมาร์ท วสิตา,Minimart,B,BKK-West,Bangkok Noi,13.776273,100.461984,R06,AG-03,คุณอำพร,+66 7029 5939,synthetic,2026-03-24
+ST-0352,ร้านอาหารณัฐศักดิ์,Restaurant,C,BKK-West,Phasi Charoen,13.7181,100.44984,R06,AG-03,คุณธมน,041355215,synthetic,2026-01-14
+ST-0353,อณาวิน Bar & Bistro,Bar,A,BKK-West,Bangkok Noi,13.782121,100.475861,R06,AG-03,คุณประเสริฐ,031-541006,synthetic,2023-01-14
+ST-0354,ร้านโชห่วยหลักทรัพย์,Grocery,C,BKK-West,Phasi Charoen,13.710859,100.41804,R06,AG-03,คุณอุดมลักษณ์,+663 676 5861,synthetic,2025-05-18
+ST-0355,โรสชา Bar & Bistro,Bar,A,BKK-West,Bangkok Noi,13.774547,100.477302,R06,AG-03,คุณศศิธร,+66 7327 1040,synthetic,2024-07-22
+ST-0356,ร้านอาหารฤทธิ์ชกร,Restaurant,C,BKK-West,Phasi Charoen,13.698148,100.449333,R06,AG-03,คุณณัฐศักดิ์,0 2526 2181,synthetic,2023-11-06
+ST-0357,ร้านโชห่วยวิกิจ,Grocery,C,BKK-West,Bangkok Noi,13.769966,100.468137,R06,AG-03,คุณทองสิริ,+66 970 629 620,synthetic,2026-06-30
+ST-0358,ณปภัชมินิมาร์ท,Minimart,B,BKK-West,Phasi Charoen,13.694094,100.427677,R06,AG-03,คุณอุษณีย์,036884443,synthetic,2024-01-28
+ST-0359,ร้านค้าญาณพันธุ์,Grocery,A,BKK-West,Bangkok Noi,13.766187,100.463174,R06,AG-03,คุณซูรัยดา,05 720 5061,synthetic,2023-02-28
+ST-0360,ร้านนั่งชิล ยศพงศ์,Bar,C,BKK-West,Phasi Charoen,13.72346,100.433042,R06,AG-03,คุณทิมาภรณ์,+66 (0) 7731 0324,synthetic,2025-09-03
+ST-0361,ชัชนันท์มินิมาร์ท,Minimart,B,BKK-South,Khlong Toei,13.708733,100.582298,R07,AG-04,คุณทรรศนชัย,+664 677 4186,synthetic,2024-07-15
+ST-0362,ร้านสะดวกซื้อ นิรุตต์,Convenience,C,BKK-South,Bang Na,13.678242,100.608083,R07,AG-04,คุณสนั่น,042 704774,synthetic,2024-03-15
+ST-0363,ร้านสะดวกซื้อ ปุณณรัตน์,Convenience,C,BKK-South,Khlong Toei,13.737166,100.570915,R07,AG-04,คุณชลิดา,022115869,synthetic,2025-09-18
+ST-0364,แปลง Bar & Bistro,Bar,B,BKK-South,Bang Na,13.680325,100.599395,R07,AG-04,คุณวรนาฎ,048-687937,synthetic,2024-10-18
+ST-0365,ร้านนั่งชิล ยอดแมน,Bar,B,BKK-South,Khlong Toei,13.70644,100.58202,R07,AG-04,คุณสุธาวี,0 808 989 921,synthetic,2023-04-04
+ST-0366,ร้านสะดวกซื้อ อัญชิษฐา,Convenience,C,BKK-South,Bang Na,13.672082,100.601583,R07,AG-04,คุณนาทภูวพัฒน์,0 923 320 616,synthetic,2025-06-16
+ST-0367,ร้านค้าประเดิม,Grocery,B,BKK-South,Khlong Toei,13.715971,100.588528,R07,AG-04,คุณเทพนารี,+66 3945 1168,synthetic,2026-03-27
+ST-0368,ร้านสัญชานพาณิชย์,Grocery,B,BKK-South,Bang Na,13.671503,100.608986,R07,AG-04,คุณวิเชียร,03 870 9986,synthetic,2024-10-16
+ST-0369,ร้านโชห่วยถนอมชัย,Grocery,C,BKK-South,Khlong Toei,13.715497,100.591947,R07,AG-04,คุณธารา,+66 7991 1914,synthetic,2024-05-06
+ST-0370,มินิมาร์ท ศศิยา,Minimart,B,BKK-South,Bang Na,13.668019,100.604502,R07,AG-04,คุณวิถี,086-467-9970,synthetic,2024-09-26
+ST-0371,ร้านโชห่วยนาทภูวพัฒน์,Grocery,B,BKK-South,Khlong Toei,13.706414,100.585547,R07,AG-04,คุณธราวิทญ์,079606530,synthetic,2023-11-23
+ST-0372,ร้านอาหารพิมพ์พิชญา,Restaurant,A,BKK-South,Bang Na,13.661687,100.614411,R07,AG-04,คุณภาสวุฒิ,+66 950 544 471,synthetic,2024-07-17
+ST-0373,ร้านค้าอุลัยพร,Grocery,C,BKK-South,Khlong Toei,13.720733,100.58669,R07,AG-04,คุณธนนนท์,+664 754 6913,synthetic,2025-10-26
+ST-0374,ร้านโชห่วยหลี,Grocery,C,BKK-South,Bang Na,13.669305,100.591725,R07,AG-04,คุณรังสินี,04 785 0821,synthetic,2023-09-08
+ST-0375,ร้านสะดวกซื้อ ราชพฤกษ์,Convenience,B,BKK-South,Khlong Toei,13.695542,100.588486,R07,AG-04,คุณสิทธัญ,02 890 2330,synthetic,2025-04-20
+ST-0376,ครัวพีรพัฒน์,Restaurant,A,BKK-South,Bang Na,13.672125,100.600604,R07,AG-04,คุณจักรกฤนาย,+66 (0) 953 457 861,synthetic,2023-02-09
+ST-0377,เบญญาทิพย์มินิมาร์ท,Minimart,C,BKK-South,Khlong Toei,13.709315,100.590487,R07,AG-04,คุณศรายุธ,0 5972 7985,synthetic,2023-02-06
+ST-0378,ครัววิถี,Restaurant,C,BKK-South,Bang Na,13.672535,100.604809,R07,AG-04,คุณสิราพร,0-3140-6029,synthetic,2023-07-13
+ST-0379,มินิมาร์ท ภาสินี,Minimart,A,BKK-South,Khlong Toei,13.707106,100.58335,R07,AG-04,คุณวิเชียร,033 346800,synthetic,2026-02-17
+ST-0380,อิสรันดร์ Bar & Bistro,Bar,C,BKK-South,Bang Na,13.674688,100.598225,R07,AG-04,คุณนรีกานต์,+66 (0) 3903 4944,synthetic,2025-12-16
+ST-0381,ร้านค้าสุพนธ์,Grocery,B,BKK-South,Khlong Toei,13.706185,100.582787,R07,AG-04,คุณวันชนก,0 4743 7489,synthetic,2025-11-27
+ST-0382,ร้านนั่งชิล สัญชาน,Bar,B,BKK-South,Bang Na,13.658458,100.595057,R07,AG-04,คุณกฤตเมธ,055 899441,synthetic,2024-11-23
+ST-0383,มินิมาร์ท เอนกพงศ์,Minimart,C,BKK-South,Khlong Toei,13.702111,100.576354,R07,AG-04,คุณภูวัน,0 7544 4328,synthetic,2023-03-17
+ST-0384,ร้านฟารินีพาณิชย์,Grocery,C,BKK-South,Bang Na,13.666796,100.607688,R07,AG-04,คุณจิม,+66 896 520 744,synthetic,2023-10-12
+ST-0385,สุปรานีมินิมาร์ท,Minimart,C,BKK-South,Khlong Toei,13.705941,100.583485,R07,AG-04,คุณสมปอง,0609935387,synthetic,2024-05-11
+ST-0386,สุปรานีหมูกระทะ,Restaurant,C,BKK-South,Bang Na,13.665951,100.611389,R07,AG-04,คุณวีระโชติ,054 282417,synthetic,2026-01-19
+ST-0387,ร้านสะดวกซื้อ เทอดศักดิ์,Convenience,A,BKK-South,Khlong Toei,13.704916,100.58594,R07,AG-04,คุณพรสวรรค์,+66 882 513 534,synthetic,2025-05-27
+ST-0388,ร้านอาหารสุทธิพจน์,Restaurant,B,BKK-South,Bang Na,13.66716,100.604835,R07,AG-04,คุณวันฉัตร,044 947170,synthetic,2025-07-22
+ST-0389,ร้านนั่งชิล ศศินา,Bar,B,BKK-South,Khlong Toei,13.711968,100.581828,R07,AG-04,คุณฐิติณัฐฐา,0 991 738 168,synthetic,2025-01-21
+ST-0390,ยศวัฒน์ Bar & Bistro,Bar,C,BKK-South,Bang Na,13.665633,100.589875,R07,AG-04,คุณศศิรินทร์,0 822 356 972,synthetic,2024-05-04
+ST-0391,ร้านโชห่วยราชัน,Grocery,A,BKK-South,Khlong Toei,13.718206,100.586665,R07,AG-04,คุณนิมุ,061 752 5007,synthetic,2025-10-18
+ST-0392,ร้านค้าภูวฤณ,Grocery,A,BKK-South,Bang Na,13.668752,100.594483,R07,AG-04,คุณภัทราวุธ,+663 927 1296,synthetic,2023-09-06
+ST-0393,ร้านอาหารธัญญกัญญา,Restaurant,A,BKK-South,Khlong Toei,13.709267,100.583138,R07,AG-04,คุณสุรวัช,097 600 8350,synthetic,2024-05-23
+ST-0394,ร้านโชห่วยสายสุรีย์,Grocery,C,BKK-South,Bang Na,13.675188,100.605715,R07,AG-04,คุณลัดดา,053-003354,synthetic,2024-01-17
+ST-0395,เทียมศักดิ์ Bar & Bistro,Bar,C,BKK-South,Khlong Toei,13.67684,100.588273,R07,AG-04,คุณกิติยาธรณ์,+667 421 0447,synthetic,2023-05-02
+ST-0396,ร้านพลานุชพาณิชย์,Grocery,B,BKK-South,Bang Na,13.659826,100.576861,R07,AG-04,คุณคำ,046257532,synthetic,2024-09-08
+ST-0397,มินิมาร์ท อัญชัญ,Minimart,C,BKK-South,Khlong Toei,13.695088,100.596378,R07,AG-04,คุณโยธิการ์,0-4033-2309,synthetic,2025-12-10
+ST-0398,ร้านสะดวกซื้อ กุลปรียา,Convenience,A,BKK-South,Bang Na,13.664193,100.609758,R07,AG-04,คุณศดิศ,+66 606 489 090,synthetic,2023-07-20
+ST-0399,มินิมาร์ท นาวีตา,Minimart,C,BKK-South,Khlong Toei,13.704726,100.564752,R07,AG-04,คุณวนาลี,+662 016 7618,synthetic,2023-05-09
+ST-0400,มินิมาร์ท พุทธ,Minimart,B,BKK-South,Bang Na,13.665168,100.608076,R07,AG-04,คุณธีรลักษณ์,0 3046 1849,synthetic,2026-06-12
+ST-0401,ดวงพรหมูกระทะ,Restaurant,B,BKK-South,Khlong Toei,13.719585,100.585219,R07,AG-04,คุณสุทธิณัฐ,0818914117,synthetic,2025-04-10
+ST-0402,ร้านอาหารปฐม,Restaurant,C,BKK-South,Bang Na,13.656255,100.59844,R07,AG-04,คุณภารวี,0-3835-6420,synthetic,2024-12-22
+ST-0403,ครัวจิราภรณ์,Restaurant,C,BKK-South,Khlong Toei,13.705659,100.58287,R07,AG-04,คุณประสิทธิ์,07 753 0011,synthetic,2024-08-11
+ST-0404,ร้านค้าวณัฐดา,Grocery,C,BKK-South,Bang Na,13.663852,100.598752,R07,AG-04,คุณกองสิน,+66 3181 1437,synthetic,2024-11-11
+ST-0405,ยศพนต์หมูกระทะ,Restaurant,C,BKK-South,Khlong Toei,13.707827,100.582937,R07,AG-04,คุณจักรกฤนาย,022-045561,synthetic,2023-11-09
+ST-0406,ร้านอาหารฌาฆีภัตฐ์,Restaurant,B,BKK-South,Bang Na,13.674114,100.61615,R07,AG-04,คุณสหัสมณี,+66 (0) 2022 5579,synthetic,2025-10-05
+ST-0407,ภาสวุฒิมินิมาร์ท,Minimart,C,BKK-South,Khlong Toei,13.710006,100.582812,R07,AG-04,คุณซุกรี,045 216674,synthetic,2025-11-06
+ST-0408,วณัฐดา Bar & Bistro,Bar,C,BKK-South,Bang Na,13.67451,100.594305,R07,AG-04,คุณวสิตา,056212021,synthetic,2024-04-02
+ST-0409,สุทกรหมูกระทะ,Restaurant,C,BKK-South,Khlong Toei,13.700322,100.588851,R07,AG-04,คุณโอภาส,+66 897 296 590,synthetic,2025-12-15
+ST-0410,ร้านโชห่วยศรินยา,Grocery,B,BKK-South,Bang Na,13.663756,100.589165,R07,AG-04,คุณวรดาพร,+66 (0) 627 716 701,synthetic,2025-03-22
+ST-0411,ร้านค้าภควัฒน์,Grocery,B,BKK-South,Khlong Toei,13.705626,100.58113,R07,AG-04,คุณกิติชัย,+66 689 935 889,synthetic,2025-02-15
+ST-0412,ครัวฌาฆีภัตฐ์,Restaurant,C,BKK-South,Bang Na,13.667439,100.6041,R07,AG-04,คุณพลานุช,037-562890,synthetic,2026-06-05
+ST-0413,ร้านกษิดิฐพาณิชย์,Grocery,A,BKK-South,Khlong Toei,13.706449,100.583702,R07,AG-04,คุณธีรวุฒิ,057 721753,synthetic,2025-02-01
+ST-0414,วันฉัตรหมูกระทะ,Restaurant,C,BKK-South,Bang Na,13.667879,100.605532,R07,AG-04,คุณจักรกฤนาย,053 866317,synthetic,2026-02-23
+ST-0415,อชิตะวีร์มินิมาร์ท,Minimart,B,BKK-South,Khlong Toei,13.715567,100.579041,R07,AG-04,คุณอดิสรณ์,027 751701,synthetic,2025-08-07
+ST-0416,ครัวสิทธัญ,Restaurant,C,BKK-South,Bang Na,13.650858,100.602276,R07,AG-04,คุณฉัตรปรียา,05 019 9488,synthetic,2024-05-03
+ST-0417,ร้านประวีพาณิชย์,Grocery,B,BKK-South,Khlong Toei,13.705878,100.603991,R07,AG-04,คุณอนุวัช,0 955 037 589,synthetic,2025-02-14
+ST-0418,มินิมาร์ท ณิชนันท์,Minimart,B,BKK-South,Bang Na,13.671171,100.604147,R07,AG-04,คุณนาตยา,047 113055,synthetic,2024-07-14
+ST-0419,ร้านโชห่วยโรสชา,Grocery,C,BKK-South,Khlong Toei,13.7049,100.576746,R07,AG-04,คุณเมทนี,+66 4885 1027,synthetic,2025-01-20
+ST-0420,ธเนษฐ Bar & Bistro,Bar,C,BKK-South,Bang Na,13.668297,100.604621,R07,AG-04,คุณพิมพ์ประภา,+66 (0) 661 493 316,synthetic,2025-08-31
+ST-0421,ปัณณวัชรมินิมาร์ท,Minimart,B,BKK-South,Yan Nawa,13.691672,100.547145,R08,AG-04,คุณมณียา,035160917,synthetic,2024-06-25
+ST-0422,ครัวอภิลักษณ์,Restaurant,C,BKK-South,Sathon,13.707669,100.528936,R08,AG-04,คุณอันธิกา,052 708086,synthetic,2025-02-19
+ST-0423,ครัววรดาพร,Restaurant,A,BKK-South,Yan Nawa,13.685716,100.544052,R08,AG-04,คุณโสภณิตา,052 922169,synthetic,2024-11-24
+ST-0424,มินิมาร์ท ดวงพร,Minimart,C,BKK-South,Sathon,13.712224,100.524411,R08,AG-04,คุณกุลปรียา,086-693-4654,synthetic,2025-11-11
+ST-0425,ร้านอนิวัฒน์พาณิชย์,Grocery,B,BKK-South,Yan Nawa,13.695421,100.544667,R08,AG-04,คุณธนวันต์,04 984 8583,synthetic,2025-08-11
+ST-0426,ร้านนั่งชิล ปรมินทร์,Bar,B,BKK-South,Sathon,13.704483,100.522592,R08,AG-04,คุณพรชนก,+66 4522 8851,synthetic,2023-09-06
+ST-0427,เพ็ญยุภามินิมาร์ท,Minimart,C,BKK-South,Yan Nawa,13.685398,100.527773,R08,AG-04,คุณเอกอธิพงษ์,+667 968 4608,synthetic,2024-02-22
+ST-0428,ณิชเชฏฐ์หมูกระทะ,Restaurant,A,BKK-South,Sathon,13.701243,100.520729,R08,AG-04,คุณธวัศชา,020342442,synthetic,2023-01-30
+ST-0429,ร้านอาหารวรดาพร,Restaurant,B,BKK-South,Yan Nawa,13.706724,100.540803,R08,AG-04,คุณมนรัตน์,+66 4380 5719,synthetic,2023-03-15
+ST-0430,ร้านค้าศศิยา,Grocery,B,BKK-South,Sathon,13.690801,100.506445,R08,AG-04,คุณชรินทร์ทิพย์,083 863 8406,synthetic,2025-03-11
+ST-0431,ร้านสมปองพาณิชย์,Grocery,C,BKK-South,Yan Nawa,13.696897,100.538974,R08,AG-04,คุณมลิวรรณ,095-800-4397,synthetic,2024-05-08
+ST-0432,โรสชา Bar & Bistro,Bar,C,BKK-South,Sathon,13.700849,100.522878,R08,AG-04,คุณธัญญกัญญา,+66 659 893 347,synthetic,2023-09-25
+ST-0433,นิชนันท์มินิมาร์ท,Minimart,B,BKK-South,Yan Nawa,13.671386,100.54923,R08,AG-04,คุณเฉลิมพล,+66 (0) 3281 6064,synthetic,2026-03-11
+ST-0434,ร้านสะดวกซื้อ จุฑารัตน์,Convenience,B,BKK-South,Sathon,13.705881,100.534211,R08,AG-04,คุณนนทกาญจน์,+667 405 7202,synthetic,2023-11-10
+ST-0435,ร้านหรรษาพาณิชย์,Grocery,C,BKK-South,Yan Nawa,13.689213,100.547486,R08,AG-04,คุณจักรชัย,069 479 8515,synthetic,2024-01-18
+ST-0436,ร้านสะดวกซื้อ จณิตตา,Convenience,C,BKK-South,Sathon,13.702318,100.542967,R08,AG-04,คุณนิรุตต์,051-826886,synthetic,2023-09-18
+ST-0437,ร้านนั่งชิล ซุกรี,Bar,C,BKK-South,Yan Nawa,13.691414,100.547604,R08,AG-04,คุณสมมล,0 3555 4398,synthetic,2024-02-19
+ST-0438,มินิมาร์ท เอกชัย,Minimart,B,BKK-South,Sathon,13.698762,100.527248,R08,AG-04,คุณรังสินี,0 601 573 993,synthetic,2026-03-27
+ST-0439,ครัวอาซือมะ,Restaurant,C,BKK-South,Yan Nawa,13.679193,100.552752,R08,AG-04,คุณสราญจิตต์,+66 (0) 4616 4840,synthetic,2023-02-17
+ST-0440,ร้านค้าสุพัตรา,Grocery,C,BKK-South,Sathon,13.701609,100.533999,R08,AG-04,คุณภัคศุภางค์,048 877043,synthetic,2024-09-04
+ST-0441,มินิมาร์ท เลิศเดช,Minimart,C,BKK-South,Yan Nawa,13.69605,100.547586,R08,AG-04,คุณอัญชัญ,022-880133,synthetic,2024-08-31
+ST-0442,ศศิธรหมูกระทะ,Restaurant,C,BKK-South,Sathon,13.705981,100.524221,R08,AG-04,คุณวณัฐดา,023-861207,synthetic,2025-03-23
+ST-0443,ร้านพรเบญญาพาณิชย์,Grocery,A,BKK-South,Yan Nawa,13.696081,100.538068,R08,AG-04,คุณโชคภาดล,0 2024 8193,synthetic,2024-01-29
+ST-0444,ครัวสุพัตรา,Restaurant,B,BKK-South,Sathon,13.71596,100.531844,R08,AG-04,คุณสมปอง,+665 665 0618,synthetic,2023-11-03
+ST-0445,ร้านกฤตเมธพาณิชย์,Grocery,C,BKK-South,Yan Nawa,13.683437,100.536388,R08,AG-04,คุณทานตะวัน,0 2901 5814,synthetic,2025-01-30
+ST-0446,มนัญชยามินิมาร์ท,Minimart,C,BKK-South,Sathon,13.706371,100.526396,R08,AG-04,คุณดวงพร,024 766072,synthetic,2025-03-23
+ST-0447,จักรีรัตน์ Bar & Bistro,Bar,A,BKK-South,Yan Nawa,13.691676,100.545595,R08,AG-04,คุณพิมพ์สุดา,0-4842-4508,synthetic,2023-09-18
+ST-0448,ศิริญา Bar & Bistro,Bar,A,BKK-South,Sathon,13.708725,100.525708,R08,AG-04,คุณทินวัฒน์,+66 (0) 2099 6881,synthetic,2024-10-19
+ST-0449,มินิมาร์ท รชตกร,Minimart,A,BKK-South,Yan Nawa,13.68567,100.541581,R08,AG-04,คุณพิมพกานต์,+66 953 682 223,synthetic,2023-09-06
+ST-0450,ร้านนั่งชิล ทับทิม,Bar,C,BKK-South,Sathon,13.69343,100.532138,R08,AG-04,คุณบุญนพ,0-2290-8781,synthetic,2025-09-16
+ST-0451,ร้านนั่งชิล มูฮำมัด,Bar,B,BKK-South,Yan Nawa,13.700576,100.547157,R08,AG-04,คุณพีระพงศ์พันธ์,023-975523,synthetic,2025-03-06
+ST-0452,ณปภัชมินิมาร์ท,Minimart,C,BKK-South,Sathon,13.699744,100.508752,R08,AG-04,คุณเจษฏาภรณ์,+66 935 775 949,synthetic,2023-12-04
+ST-0453,ร้านธีรลักษณ์พาณิชย์,Grocery,C,BKK-South,Yan Nawa,13.695265,100.542744,R08,AG-04,คุณไวพจน์,+66 856 205 336,synthetic,2024-11-01
+ST-0454,ครัวภูวัน,Restaurant,C,BKK-South,Sathon,13.720524,100.522557,R08,AG-04,คุณธนนนท์,0-7577-7547,synthetic,2025-09-22
+ST-0455,ร้านอาหารจีราภรณ์,Restaurant,B,BKK-South,Yan Nawa,13.693389,100.538919,R08,AG-04,คุณนราวรรณ,+66 (0) 7142 8341,synthetic,2026-04-17
+ST-0456,ร้านโชห่วยพลานุช,Grocery,C,BKK-South,Sathon,13.704201,100.522591,R08,AG-04,คุณกุลดิลก,0 880 996 930,synthetic,2023-03-31
+ST-0457,ร้านอาหารจีราภรณ์,Restaurant,C,BKK-South,Yan Nawa,13.696202,100.543924,R08,AG-04,คุณสิราพร,0-5725-6394,synthetic,2023-11-05
+ST-0458,ร้านโชห่วยธนนนท์,Grocery,A,BKK-South,Sathon,13.708157,100.525581,R08,AG-04,คุณเกษรา,026 580392,synthetic,2024-07-04
+ST-0459,เพชรมณี Bar & Bistro,Bar,B,BKK-South,Yan Nawa,13.693278,100.546146,R08,AG-04,คุณอณาวิน,+663 299 2750,synthetic,2024-09-01
+ST-0460,ร้านอาหารปิยบุตร,Restaurant,B,BKK-South,Sathon,13.707013,100.539068,R08,AG-04,คุณผดุงพล,0 2453 0385,synthetic,2025-06-21
+ST-0461,ร้านค้าสมปอง,Grocery,C,BKK-South,Yan Nawa,13.688863,100.536821,R08,AG-04,คุณอนุบาล,080-051-8449,synthetic,2024-07-10
+ST-0462,ร้านจิตรลดาพาณิชย์,Grocery,A,BKK-South,Sathon,13.701337,100.535196,R08,AG-04,คุณศิรณัฐ,076 591846,synthetic,2024-11-06
+ST-0463,ร้านค้าอุษณีย์,Grocery,C,BKK-South,Yan Nawa,13.694069,100.54947,R08,AG-04,คุณขอดิเยาะ,0-4557-7908,synthetic,2025-12-11
+ST-0464,ร้านสะดวกซื้อ สมใจ,Convenience,C,BKK-South,Sathon,13.700698,100.511889,R08,AG-04,คุณนภนต์,031 843222,synthetic,2023-06-14
+ST-0465,ร้านโชห่วยวุฒิ,Grocery,C,BKK-South,Yan Nawa,13.69573,100.543284,R08,AG-04,คุณรอกีเย๊าะ,0-2365-1777,synthetic,2024-12-14
+ST-0466,ครัวประเสริฐ,Restaurant,C,BKK-South,Sathon,13.70333,100.528712,R08,AG-04,คุณนรีกานต์,0860302992,synthetic,2024-12-01
+ST-0467,ธนนนท์มินิมาร์ท,Minimart,B,BKK-South,Yan Nawa,13.685281,100.54036,R08,AG-04,คุณคมกฤชญ์,+66 992 024 286,synthetic,2025-01-16
+ST-0468,ครัวณาร์รีมาน,Restaurant,B,BKK-South,Sathon,13.702224,100.526387,R08,AG-04,คุณธีริสรา,+662 413 7977,synthetic,2026-02-22
+ST-0469,นัสรุนมินิมาร์ท,Minimart,B,BKK-South,Yan Nawa,13.701434,100.536698,R08,AG-04,คุณสิริรัตน์,+66 (0) 7292 9842,synthetic,2023-09-17
+ST-0470,ร้านสะดวกซื้อ พรรณปพร,Convenience,C,BKK-South,Sathon,13.712242,100.538158,R08,AG-04,คุณสุรนีย์,+66 (0) 5991 3662,synthetic,2025-03-23
+ST-0471,ร้านดิลกพาณิชย์,Grocery,B,BKK-South,Yan Nawa,13.683778,100.55108,R08,AG-04,คุณคมคาย,088 629 1279,synthetic,2023-01-20
+ST-0472,ร้านณิชนันท์พาณิชย์,Grocery,B,BKK-South,Sathon,13.711168,100.520854,R08,AG-04,คุณมนรัตน์,0-5811-7298,synthetic,2023-02-16
+ST-0473,ครัวรูไกยะฮ์,Restaurant,C,BKK-South,Yan Nawa,13.699244,100.560823,R08,AG-04,คุณอรจิรา,066 865 0863,synthetic,2023-01-02
+ST-0474,ร้านโชห่วยอรจิรา,Grocery,B,BKK-South,Sathon,13.700537,100.52415,R08,AG-04,คุณมะลีวัลย์,066 599 1624,synthetic,2025-08-08
+ST-0475,เอกวิทย์หมูกระทะ,Restaurant,C,BKK-South,Yan Nawa,13.679012,100.543515,R08,AG-04,คุณสุพัตร,0 814 986 430,synthetic,2025-06-26
+ST-0476,ร้านค้าผกาทิพย์,Grocery,B,BKK-South,Sathon,13.713603,100.531034,R08,AG-04,คุณกฤตเมธ,+66 7818 0635,synthetic,2025-05-31
+ST-0477,ร้านสะดวกซื้อ สิรวัฒน์,Convenience,C,BKK-South,Yan Nawa,13.708977,100.546574,R08,AG-04,คุณธีรวัช,+66 5944 8695,synthetic,2024-03-05
+ST-0478,ร้านสะดวกซื้อ ตรีนุช,Convenience,A,BKK-South,Sathon,13.693745,100.521601,R08,AG-04,คุณเบญญาทิพย์,0-4368-8725,synthetic,2023-11-23
+ST-0479,ร้านนั่งชิล ชนิศา,Bar,B,BKK-South,Yan Nawa,13.696137,100.526289,R08,AG-04,คุณพุทธ,+664 956 2137,synthetic,2024-10-19
+ST-0480,มินิมาร์ท มณียา,Minimart,C,BKK-South,Sathon,13.719928,100.528521,R08,AG-04,คุณนนทกาญจน์,023-865890,synthetic,2025-04-08

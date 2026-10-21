@@ -1,0 +1,11 @@
+rep_id,rep_name,nickname,role,territory_id,manager_id,hire_date
+ASM-01,นพรัตน์ ดวงทับทิม,เกษมชัย,ASM,,,2021-09-15
+R01,พิชาภพ ตันตราจิณ,ธเนษฐ,Sales Rep,BKK-East,ASM-01,2024-07-15
+R02,บุญเทียน บุญส่ง,สายสุรีย์,Sales Rep,BKK-East,ASM-01,2023-05-12
+R03,ณัฐธภรณ์ ทองอยู่,โกวิทย์,Sales Rep,BKK-North,ASM-01,2020-03-08
+R04,ปัตถพงษ์ ตันยา,กุลปรียา,Sales Rep,BKK-North,ASM-01,2023-09-16
+ASM-02,ชรินทร์ทิพย์ ตวันเยี่ยม,พรชีวิน,ASM,,,2021-04-01
+R05,จินต์จุฑา ทองสุกเลิศ,ปิยบุตร,Sales Rep,BKK-West,ASM-02,2022-10-07
+R06,ภูวิช โพธิสัตย์,ศศิรินทร์,Sales Rep,BKK-West,ASM-02,2020-01-15
+R07,ยุภา ดุริยพันธุ์,ปาริตา,Sales Rep,BKK-South,ASM-02,2022-08-08
+R08,ภูวิช ดีตพันธุ์,ปัณณวัชร,Sales Rep,BKK-South,ASM-02,2025-11-23
