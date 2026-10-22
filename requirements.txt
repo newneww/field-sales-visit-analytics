@@ -2,3 +2,6 @@ faker>=40
 requests>=2.31
 psycopg[binary]>=3.2
 pandas>=2.2
+sqlalchemy>=2.0
+matplotlib>=3.9
+jupyter>=1.1

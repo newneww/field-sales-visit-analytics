@@ -1,4 +1,4 @@
-"""Create the raw schema and load data/output/*.csv into PostgreSQL.
+"""Load data/output/*.csv into PostgreSQL and build the clean and analytics views.
 
 Works with any PostgreSQL: a local one or a hosted one such as Neon.
 
@@ -14,6 +14,8 @@ import psycopg
 
 ROOT = Path(__file__).resolve().parents[1]
 SCHEMA_SQL = ROOT / "sql" / "01_schema.sql"
+# Run after loading; each file drops and recreates its own schema.
+VIEW_SQL = [ROOT / "sql" / "02_cleaning.sql", ROOT / "sql" / "03_views.sql"]
 CSV_DIR = ROOT / "data" / "output"
 
 # Parents before children, so foreign keys are satisfied.
@@ -41,6 +43,9 @@ def main() -> None:
                         copy.write(chunk)
                 cur.execute(f"SELECT count(*) FROM raw.{table}")
                 print(f"raw.{table:<12} {cur.fetchone()[0]:>7,} rows", file=sys.stderr)
+        for path in VIEW_SQL:
+            conn.execute(path.read_text(encoding="utf-8"))
+            print(f"ran {path.name}", file=sys.stderr)
 
 
 if __name__ == "__main__":
