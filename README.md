@@ -70,7 +70,7 @@ docs/
 |---|---|
 | `raw` | the CSVs as delivered, problems included |
 | `clean` | `stores` (phones normalised), `visits` (duplicates removed, issues flagged), `valid_visits`, `data_quality_summary` |
-| `analytics` | `visits_enriched` (one flat row per visit), `store_month_coverage`, `rep_plan_vs_actual`, `rep_daily_productivity`, `sales_lines`, `stock_weekly` |
+| `analytics` | `visits_enriched` (one flat row per visit), `store_month_coverage`, `rep_plan_vs_actual`, `plan_visits` (one row per planned visit), `rep_daily_productivity`, `sales_lines`, `stock_weekly`, `visit_quality` (one row per check-in, issues as 0/1) |
 
 ## Quick start
 

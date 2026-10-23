@@ -2,6 +2,12 @@
 -- Each view answers one family of business questions and has one row per
 -- clearly stated grain. Built on the clean schema from 02_cleaning.sql.
 -- Rerunnable: drops and recreates the analytics schema.
+--
+-- Shared filter columns: a dashboard filter control applies to every chart
+-- whose data source has a field of the same name, so the views reuse the
+-- same names where they make sense: month, territory_id, rep_id, grade.
+-- Map columns: store_lat_lng holds "lat,lng" text, the format Looker Studio
+-- reads as a Latitude, Longitude geo field.
 
 DROP SCHEMA IF EXISTS analytics CASCADE;
 CREATE SCHEMA analytics;
@@ -13,7 +19,9 @@ SELECT
     v.visit_id,
     v.visit_date,
     date_trunc('month', v.visit_date)::date AS visit_month,
+    date_trunc('month', v.visit_date)::date AS month,
     to_char(v.visit_date, 'Dy')             AS weekday,
+    extract(isodow FROM v.visit_date)::int  AS weekday_num,
     v.checkin_at,
     v.checkout_at,
     v.duration_min,
@@ -35,6 +43,7 @@ SELECT
     s.district,
     s.lat,
     s.lng,
+    s.lat || ',' || s.lng          AS store_lat_lng,
     coalesce(o.order_value_thb, 0) AS order_value_thb,
     coalesce(o.order_cases, 0)     AS order_cases,
     o.visit_id IS NOT NULL         AS has_order
@@ -72,6 +81,7 @@ SELECT
     s.territory_id,
     s.district,
     s.rep_id,
+    s.lat || ',' || s.lng                               AS store_lat_lng,
     t.visits_per_month                                  AS required_visits,
     coalesce(a.valid_visits, 0)                         AS valid_visits,
     least(coalesce(a.valid_visits, 0), t.visits_per_month)::numeric
@@ -113,11 +123,38 @@ FROM plans p
 JOIN raw.reps r USING (rep_id)
 LEFT JOIN done d USING (rep_id, month);
 
+-- Plan vs actual at plan level, so completion can be cut by weekday, grade
+-- and territory as well as rep and month. Done = a valid visit links to
+-- the plan. Month is the month of the plan date.
+-- Grain: planned visit.
+CREATE VIEW analytics.plan_visits AS
+SELECT
+    p.plan_id,
+    p.plan_date,
+    date_trunc('month', p.plan_date)::date  AS month,
+    to_char(p.plan_date, 'Dy')              AS weekday,
+    extract(isodow FROM p.plan_date)::int   AS weekday_num,
+    p.rep_id,
+    r.rep_name,
+    r.manager_id AS asm_id,
+    s.store_id,
+    s.store_name,
+    s.channel,
+    s.grade,
+    s.territory_id,
+    (d.plan_id IS NOT NULL)::int            AS is_done
+FROM raw.visit_plans p
+JOIN raw.reps r USING (rep_id)
+JOIN clean.stores s USING (store_id)
+LEFT JOIN (SELECT DISTINCT plan_id FROM clean.valid_visits WHERE plan_id IS NOT NULL) d
+    USING (plan_id);
+
 -- Field-day productivity.
 -- Grain: rep x working day with at least one visit.
 CREATE VIEW analytics.rep_daily_productivity AS
 SELECT
     visit_date,
+    month,
     rep_id,
     rep_name,
     territory_id,
@@ -132,14 +169,15 @@ SELECT
     sum(order_value_thb)                         AS order_value_thb,
     count(*) FILTER (WHERE has_order)            AS visits_with_order
 FROM analytics.visits_enriched
-GROUP BY visit_date, rep_id, rep_name, territory_id;
+GROUP BY visit_date, month, rep_id, rep_name, territory_id;
 
 -- Sales from store orders.
 -- Grain: day x store x SKU.
 CREATE VIEW analytics.sales_lines AS
 SELECT
     v.visit_date,
-    date_trunc('month', v.visit_date)::date AS visit_month,
+    v.visit_month,
+    v.month,
     v.rep_id,
     v.territory_id,
     v.store_id,
@@ -153,13 +191,16 @@ SELECT
 FROM raw.order_lines o
 JOIN analytics.visits_enriched v USING (visit_id)
 JOIN raw.skus k USING (sku_id)
-GROUP BY 1, 2, 3, 4, 5, 6, 7, 8, 9, 10;
+GROUP BY 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11;
 
 -- Distributor stock health.
--- Grain: week x agent x SKU.
+-- Grain: week x agent x SKU. Month is the month the week starts in, except
+-- that the first week (starting before the data period) counts as April.
 CREATE VIEW analytics.stock_weekly AS
 SELECT
     st.week_start,
+    date_trunc('month', greatest(st.week_start, (SELECT min(plan_date) FROM raw.visit_plans)))::date
+                                                       AS month,
     st.agent_id,
     a.agent_name,
     a.territory_id,
@@ -179,3 +220,28 @@ SELECT
 FROM raw.agent_stock st
 JOIN raw.agents a USING (agent_id)
 JOIN raw.skus k USING (sku_id);
+
+-- Data quality per check-in, including the duplicate submissions that
+-- clean.visits drops. Issues are 0/1 integers so a dashboard can show a
+-- rate as a plain average. A duplicate counts only as a duplicate.
+-- Grain: raw visit (check-in).
+CREATE VIEW analytics.visit_quality AS
+SELECT
+    r.visit_id,
+    r.checkin_at::date                                     AS visit_date,
+    date_trunc('month', r.checkin_at)::date                AS month,
+    r.rep_id,
+    s.store_id,
+    s.grade,
+    s.territory_id,
+    (c.visit_id IS NULL)::int                              AS is_duplicate,
+    coalesce(c.flag_gps_far, false)::int                   AS gps_far,
+    coalesce(c.flag_missing_checkout, false)::int          AS missing_checkout,
+    coalesce(c.flag_too_short, false)::int                 AS too_short,
+    coalesce(c.flag_no_photo, false)::int                  AS no_photo,
+    (c.visit_id IS NULL
+     OR c.flag_gps_far OR c.flag_missing_checkout
+     OR coalesce(c.flag_too_short, false) OR c.flag_no_photo)::int AS has_issue
+FROM raw.visits r
+JOIN clean.stores s USING (store_id)
+LEFT JOIN clean.visits c USING (visit_id);
