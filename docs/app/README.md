@@ -1,10 +1,18 @@
 # The field app and admin console
 
-This analysis uses the same data model as a real field-sales system: a mobile
-app that reps use in the field, and a web console that managers and admins use
-in the office. The screens below are that system running on the **synthetic
-FieldPulse data** in this repository. The product name, brands and all data are
-replaced; no real company data appears.
+I designed and built this field-sales system for a beverage company's sales
+team: a mobile app that reps use in the field, and a web console that managers
+and admins use in the office. It runs in production, and its data model is the
+one this analysis uses.
+
+The screens below are the real system running on the **synthetic FieldPulse
+data** in this repository. The product name, brands and all data are replaced;
+no company data or source code is published here.
+
+**What I did:** gathered requirements from sales reps, ASMs and management;
+designed the data model (stores, grades, visit plans, approvals, visits);
+built the app and console; set up deployment, testing and data imports; and
+built the dashboards managers use to track coverage.
 
 **Stack:** React Native (Expo) for Android and web/PWA · React + Vite admin
 console · PostgreSQL (Supabase) with row-level security · offline-first sync.

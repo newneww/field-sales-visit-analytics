@@ -24,9 +24,11 @@ Details and charts: [`notebooks/01_eda.ipynb`](notebooks/01_eda.ipynb).
 
 ## The app behind the data
 
-The visit data comes from a field-sales app (mobile, for reps) and an admin
-console (web, for managers), shown here with the synthetic data:
-[**see all screens →**](docs/app/README.md)
+I designed and built the system that collects this kind of data: a field-sales
+app (mobile, for reps) and an admin console (web, for managers), used in
+production by a beverage company's sales team. Shown here with the synthetic
+data, renamed and rebranded:
+[**see all screens and my role →**](docs/app/README.md)
 
 | Mobile: store list | Mobile: GPS check-in | Admin: visit dashboard |
 |---|---|---|
