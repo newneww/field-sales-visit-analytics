@@ -22,6 +22,16 @@ runs out.
 
 Details and charts: [`notebooks/01_eda.ipynb`](notebooks/01_eda.ipynb).
 
+## The app behind the data
+
+The visit data comes from a field-sales app (mobile, for reps) and an admin
+console (web, for managers), shown here with the synthetic data:
+[**see all screens →**](docs/app/README.md)
+
+| Mobile: store list | Mobile: GPS check-in | Admin: visit dashboard |
+|---|---|---|
+| <img src="docs/app/app-02-stores.png" width="220"> | <img src="docs/app/app-03-checkin.png" width="220"> | <img src="docs/app/admin-01-visits.png" width="420"> |
+
 ## The business
 
 *FieldPulse* is a fictional beverage company in Bangkok (beer, soda, water).
